@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "fd305257-2363-4158-925b-1fc658c06f35",
+  "experienceKey": "wnba-demo",
+  "locale": "en",
+  "searchTerm": "who is the forward on the new york liberty",
+  "triggerType": "query",
+  "type": "featuredSnippet",
+  "details": {
+    "predictionType": "SPAN_EXTRACTION",
+    "rejectedPrediction": {
+      "length": 14,
+      "offset": 143
+    },
+    "resultText": "Diana Taurasi Voted By Fans As WNBA\u0027s Greatest Player of All Time Official Release October 10, 2021 – Sue Bird, Maya Moore, Candace Parker and Cynthia Cooper Complete Top Five in \"Vote for the GOAT\" – NEW YORK, Oct. 10, 2021 – The WNBA announced today that Phoenix Mercury guard Diana Taurasi has been"
+  }
+}

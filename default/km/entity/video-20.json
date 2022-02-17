@@ -1,0 +1,26 @@
+{
+  "$id": "video-20",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": [
+      "Social Justice Council"
+    ],
+    "c_embedURL": "https://www.youtube.com/embed/RjxK1rTylh8",
+    "c_league": [
+      "organization-1"
+    ],
+    "c_youTubeURL": "https://www.youtube.com/watch?v\u003dRjxK1rTylh8",
+    "description": "Tierra Ruffin-Pratt has made it her duty to be an advocate for change within her community 🙌 #SayHerName #SeeMe #ShareBlackStories",
+    "name": "Social Justice Council: Tierra Ruffin-Pratt",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dRjxK1rTylh8"
+        }
+      }
+    ]
+  },
+  "entityType": "ce_video",
+  "labels": []
+}

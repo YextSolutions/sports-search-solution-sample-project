@@ -1,0 +1,21 @@
+{
+  "$id": "faq-28",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "Nationally televised games on ABC, Amazon, ESPN, ESPN2, CBS Sports Network, and CBS are not available live on LP. For Canada, National televised games on TSN, SN and SN 360 are not available live on LP. For additional information, please visit our schedule page.",
+    "c_category": [
+      "LeaguePass"
+    ],
+    "c_defaultOnInitialSearch": true,
+    "c_primaryCTA": {
+      "label": "Click Here",
+      "link": "https://www.wnba.com/schedule/",
+      "linkType": "URL"
+    },
+    "name": "Where can I find blackout information for WNBA League Pass?",
+    "question": "Where can I find blackout information for WNBA League Pass?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

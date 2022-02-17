@@ -1,0 +1,13 @@
+{
+  "$id": "ce_gallery.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Gallery-default",
+  "entityType": "ce_gallery",
+  "fields": [
+    "c_defaultOnInitialSearch",
+    "datePosted",
+    "landingPageUrl",
+    "photoGallery"
+  ],
+  "required": []
+}

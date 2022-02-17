@@ -1,0 +1,61 @@
+{
+  "$id": "location-4",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Indianapolis",
+      "countryCode": "US",
+      "line1": "125 S Pennsylvania St",
+      "postalCode": "46204",
+      "region": "IN"
+    },
+    "c_league": [
+      "organization-1"
+    ],
+    "c_linkedTeams": [
+      "team-4"
+    ],
+    "name": "Gainbridge Fieldhouse",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 1428,
+          "sourceUrl": "https://carmelmonthlymagazine-video.s3.us-east-2.amazonaws.com/wp-content/uploads/2021/09/30204623/COURT-3.jpg",
+          "thumbnails": [
+            {
+              "height": 1428,
+              "url": "https://a.mktgcdn.com/p-sandbox/JmHL9HI8TLB3kYuguJAL4ZuUrue5KFK6pi8RCtfkeic/2000x1428.jpg",
+              "width": 2000
+            },
+            {
+              "height": 1357,
+              "url": "https://a.mktgcdn.com/p-sandbox/JmHL9HI8TLB3kYuguJAL4ZuUrue5KFK6pi8RCtfkeic/1900x1357.jpg",
+              "width": 1900
+            },
+            {
+              "height": 442,
+              "url": "https://a.mktgcdn.com/p-sandbox/JmHL9HI8TLB3kYuguJAL4ZuUrue5KFK6pi8RCtfkeic/619x442.jpg",
+              "width": 619
+            },
+            {
+              "height": 428,
+              "url": "https://a.mktgcdn.com/p-sandbox/JmHL9HI8TLB3kYuguJAL4ZuUrue5KFK6pi8RCtfkeic/600x428.jpg",
+              "width": 600
+            },
+            {
+              "height": 140,
+              "url": "https://a.mktgcdn.com/p-sandbox/JmHL9HI8TLB3kYuguJAL4ZuUrue5KFK6pi8RCtfkeic/196x140.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/JmHL9HI8TLB3kYuguJAL4ZuUrue5KFK6pi8RCtfkeic/2000x1428.jpg",
+          "width": 2000
+        }
+      }
+    ],
+    "timezone": "America/Indiana/Indianapolis"
+  },
+  "entityType": "location",
+  "labels": []
+}

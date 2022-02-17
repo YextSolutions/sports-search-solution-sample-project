@@ -1,0 +1,34 @@
+{
+  "$id": "streamsapi-answersIndexingApi",
+  "$schema": "https://schema.yext.com/config/streams/stream-config/v1",
+  "source": "knowledgeGraph",
+  "destination": "streamsapi",
+  "fields": [
+    "address.city",
+    "address.region",
+    "body",
+    "c_dateOfBirth",
+    "c_height",
+    "c_linkedAthletes.name",
+    "c_linkedTeams",
+    "c_position",
+    "c_weight",
+    "id",
+    "linkedLocation.name",
+    "meta",
+    "yearsOfExperience"
+  ],
+  "filter": {
+    "entityTypes": [
+      "location",
+      "ce_news",
+      "ce_team",
+      "ce_athlete"
+    ]
+  },
+  "localization": {
+    "locales": [
+      "en"
+    ]
+  }
+}

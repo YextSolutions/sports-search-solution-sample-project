@@ -1,0 +1,67 @@
+{
+  "$id": "team-2",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_conference": "Eastern",
+    "c_defaultOnInitialSearch": true,
+    "c_league": [
+      "organization-1"
+    ],
+    "c_linkedAthletes": [
+      "athlete-14",
+      "athlete-15",
+      "athlete-16",
+      "athlete-17",
+      "athlete-18",
+      "athlete-19",
+      "athlete-20",
+      "athlete-21",
+      "athlete-22",
+      "athlete-23",
+      "athlete-24"
+    ],
+    "c_rosterURL": "http://sky.wnba.com/roster/",
+    "c_scheduleURL": "http://sky.wnba.com/schedule/#?season\u003d2022\u0026seasontype\u003d02",
+    "c_teamAbbreviation": "CHI",
+    "c_teamCity": "Chicago",
+    "c_teamState": "IL",
+    "landingPageUrl": "http://sky.wnba.com/",
+    "linkedLocation": "location-2",
+    "name": "Chicago Sky",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 1378,
+          "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Chicago_Sky_logo.svg/1200px-Chicago_Sky_logo.svg.png",
+          "thumbnails": [
+            {
+              "height": 1378,
+              "url": "https://a.mktgcdn.com/p-sandbox/hghj36CVPjfYHOC7tgASZsdx17YL7edx_mQZdaAyTtM/1200x1378.png",
+              "width": 1200
+            },
+            {
+              "height": 711,
+              "url": "https://a.mktgcdn.com/p-sandbox/hghj36CVPjfYHOC7tgASZsdx17YL7edx_mQZdaAyTtM/619x711.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/hghj36CVPjfYHOC7tgASZsdx17YL7edx_mQZdaAyTtM/392x450.png",
+              "width": 392
+            },
+            {
+              "height": 225,
+              "url": "https://a.mktgcdn.com/p-sandbox/hghj36CVPjfYHOC7tgASZsdx17YL7edx_mQZdaAyTtM/196x225.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/hghj36CVPjfYHOC7tgASZsdx17YL7edx_mQZdaAyTtM/1200x1378.png",
+          "width": 1200
+        }
+      }
+    ]
+  },
+  "entityType": "ce_team",
+  "labels": []
+}

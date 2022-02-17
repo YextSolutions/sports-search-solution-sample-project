@@ -1,0 +1,30 @@
+{
+  "$id": "video-4",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": [
+      "2021 WNBA Postseason"
+    ],
+    "c_embedURL": "https://www.youtube.com/embed/Cg5i14EFPkg",
+    "c_league": [
+      "organization-1"
+    ],
+    "c_linkedTeams": [
+      "team-2",
+      "team-11"
+    ],
+    "c_youTubeURL": "https://www.youtube.com/watch?v\u003dCg5i14EFPkg",
+    "description": "After a competitive Game 2, the Chicago Sky and Phoenix Mercury traveled to Wintrust Arena in Chicago for Game 3 of the WNBA Finals. The Sky took hold of the game early and fed off of an energic Chicago crowd. Kahleah Copper scored 20 of her game-high 22 points in the first half and the Sky set the record for the largest margin of victory in a Finals game by 36 points. The Sky have a chance to clinch the franchises’ first WNBA title in Game 4 while the Mercury look to tie the series on Sunday, October 17th at 3PM ET.",
+    "name": "Chicago Sky vs. Phoenix Mercury: WNBA Finals Game 3 Mini-Movie",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dCg5i14EFPkg"
+        }
+      }
+    ]
+  },
+  "entityType": "ce_video",
+  "labels": []
+}

@@ -1,0 +1,30 @@
+{
+  "$id": "video-1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": [
+      "2021 WNBA Postseason"
+    ],
+    "c_defaultOnInitialSearch": true,
+    "c_embedURL": "https://www.youtube.com/embed/D4whF4WbEjI",
+    "c_league": [
+      "organization-1"
+    ],
+    "c_linkedTeams": [
+      "team-2"
+    ],
+    "c_youTubeURL": "https://www.youtube.com/watch?v\u003dD4whF4WbEjI",
+    "description": "For the first time in franchise history, the Chicago Sky are WNBA Champions. In Game 4 on Sunday, the Sky trailed for the majority of the game, but were able to pull off a 14 point comeback. Kahleah Copper was named Finals MVP after averaging 17 points and 5.5 rebounds in the series.",
+    "name": "Game 4 Mini Movie: The Chicago Sky Become the 2021 WNBA Champions",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dD4whF4WbEjI"
+        }
+      }
+    ]
+  },
+  "entityType": "ce_video",
+  "labels": []
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "faq-17",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "The league requires draft entrants to be at least 22 years old during the year in which the draft takes place and has no remaining college eligibility or renounces any future college eligibility.",
+    "c_category": [
+      "Draft"
+    ],
+    "name": "Who’s eligible to be drafted?",
+    "question": "Who’s eligible to be drafted?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

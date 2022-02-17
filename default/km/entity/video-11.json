@@ -1,0 +1,30 @@
+{
+  "$id": "video-11",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": [
+      "2021 WNBA Game Recaps"
+    ],
+    "c_embedURL": "https://www.youtube.com/embed/Nl8IeMYiMeg",
+    "c_league": [
+      "organization-1"
+    ],
+    "c_linkedTeams": [
+      "team-8",
+      "team-11"
+    ],
+    "c_youTubeURL": "https://www.youtube.com/watch?v\u003dNl8IeMYiMeg",
+    "description": "The Las Vegas Aces win a thriller over the Phoenix Mercury 84-83 behind 23 points from Kelsey Plum.",
+    "name": "LAS VEGAS ACES vs. PHOENIX MERCURY | FULL GAME HIGHLIGHTS | September 19, 2021",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dNl8IeMYiMeg"
+        }
+      }
+    ]
+  },
+  "entityType": "ce_video",
+  "labels": []
+}

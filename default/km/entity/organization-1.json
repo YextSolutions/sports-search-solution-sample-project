@@ -1,0 +1,65 @@
+{
+  "$id": "organization-1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "blackOwnedBusiness": false,
+    "description": "The Women\u0027s National Basketball Association is a professional basketball league in the United States. It is currently composed of twelve teams. The league was founded on April 22, 1996, as the women\u0027s counterpart to the National Basketball Association, and league play started in 1997.",
+    "emails": [
+      "leaguepasssupport@wnba.com"
+    ],
+    "facebookPageUrl": "https://www.facebook.com/wnba/",
+    "instagramHandle": "wnba",
+    "logo": {
+      "image": {
+        "height": 1200,
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/WNBA_logo.svg/1200px-WNBA_logo.svg.png",
+        "thumbnails": [
+          {
+            "height": 1200,
+            "url": "https://a.mktgcdn.com/p-sandbox/YH3gfsQDKv-b67_wrLXPZwFRdPedKvIhm9FYUHA13HI/1200x1200.png",
+            "width": 1200
+          },
+          {
+            "height": 619,
+            "url": "https://a.mktgcdn.com/p-sandbox/YH3gfsQDKv-b67_wrLXPZwFRdPedKvIhm9FYUHA13HI/619x619.png",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p-sandbox/YH3gfsQDKv-b67_wrLXPZwFRdPedKvIhm9FYUHA13HI/450x450.png",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "https://a.mktgcdn.com/p-sandbox/YH3gfsQDKv-b67_wrLXPZwFRdPedKvIhm9FYUHA13HI/196x196.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/YH3gfsQDKv-b67_wrLXPZwFRdPedKvIhm9FYUHA13HI/1200x1200.png",
+        "width": 1200
+      }
+    },
+    "name": "WNBA",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 580,
+          "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/WNBA_logo.svg/1200px-WNBA_logo.svg.png",
+          "thumbnails": [
+            {
+              "height": 580,
+              "url": "https://a.mktgcdn.com/p-sandbox/Zt_YPMdiZQBWqznq9FET69-m5Awy0QvCpV20jgiyWAo/1200x580.png",
+              "width": 1200
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Zt_YPMdiZQBWqznq9FET69-m5Awy0QvCpV20jgiyWAo/1200x580.png",
+          "width": 1200
+        }
+      }
+    ],
+    "twitterHandle": "WNBA"
+  },
+  "entityType": "organization",
+  "labels": []
+}

@@ -1,0 +1,81 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "14bff354-a710-42b8-81cc-cb3dc50960da",
+  "experienceKey": "wnba-demo",
+  "locale": "en",
+  "searchTerm": "center on the new york liberty",
+  "triggerType": "query",
+  "type": "nlpFilter",
+  "details": {
+    "enforcedPrediction": {
+      "athletes": [
+        {
+          "filter": {
+            "c_position": {
+              "$eq": "\"Center\""
+            }
+          }
+        }
+      ],
+      "faqs": [],
+      "jobs": [
+        {
+          "filter": {
+            "builtin.location": {
+              "$eq": "\"P-place.12178794975964500\""
+            }
+          },
+          "placeDetails": {
+            "boundingBox": {
+              "maxLat": 40.917577,
+              "maxLng": -73.70001442,
+              "minLat": 40.477399,
+              "minLng": -74.25909
+            },
+            "center": {
+              "lat": 40.7306,
+              "lng": -73.9866
+            },
+            "displayValue": "New York",
+            "featureType": [
+              "place"
+            ],
+            "placeName": "New York, New York, United States"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "filter": {
+            "builtin.location": {
+              "$eq": "\"P-place.12178794975964500\""
+            }
+          },
+          "placeDetails": {
+            "boundingBox": {
+              "maxLat": 40.917577,
+              "maxLng": -73.70001442,
+              "minLat": 40.477399,
+              "minLng": -74.25909
+            },
+            "center": {
+              "lat": 40.7306,
+              "lng": -73.9866
+            },
+            "displayValue": "New York",
+            "featureType": [
+              "place"
+            ],
+            "placeName": "New York, New York, United States"
+          }
+        }
+      ],
+      "news": [],
+      "products": [],
+      "promotions": [],
+      "teams": [],
+      "videos": []
+    },
+    "rejectedPrediction": {}
+  }
+}

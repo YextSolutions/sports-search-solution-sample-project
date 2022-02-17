@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "72f2d664-ac29-4b8d-9e43-36ac33f01ce4",
+  "experienceKey": "wnba-demo",
+  "locale": "en",
+  "searchTerm": "who is the center for the new york liberty",
+  "triggerType": "query",
+  "type": "featuredSnippet",
+  "details": {
+    "predictionType": "SPAN_EXTRACTION",
+    "rejectedPrediction": {
+      "length": 27,
+      "offset": 134
+    },
+    "resultText": "Taurasi was announced as the greatest player in WNBA history today prior to Game 1 of the WNBA Finals 2021 presented by YouTube TV at Footprint Center in Phoenix. \"Congratulations to Diana Taurasi on being voted as the Greatest WNBA player of all time by the fans who have followed her illustrious career and"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "$id": "athlete-8",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_dateOfBirth": "September 20, 1989",
+    "c_height": "5-10 ft",
+    "c_jersey": "15",
+    "c_linkedTeams": [
+      "team-1"
+    ],
+    "c_position": "Guard",
+    "c_teamLogo": [
+      {
+        "height": 1265,
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Atlanta_Dream_logo.svg/1200px-Atlanta_Dream_logo.svg.png",
+        "thumbnails": [
+          {
+            "height": 1265,
+            "url": "https://a.mktgcdn.com/p-sandbox/Fxxv2Sp331i8pQdmdyi9P4ngnpEJbYY0-b5G2BpvNLc/1200x1265.png",
+            "width": 1200
+          },
+          {
+            "height": 653,
+            "url": "https://a.mktgcdn.com/p-sandbox/Fxxv2Sp331i8pQdmdyi9P4ngnpEJbYY0-b5G2BpvNLc/619x653.png",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p-sandbox/Fxxv2Sp331i8pQdmdyi9P4ngnpEJbYY0-b5G2BpvNLc/427x450.png",
+            "width": 427
+          },
+          {
+            "height": 207,
+            "url": "https://a.mktgcdn.com/p-sandbox/Fxxv2Sp331i8pQdmdyi9P4ngnpEJbYY0-b5G2BpvNLc/196x207.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/Fxxv2Sp331i8pQdmdyi9P4ngnpEJbYY0-b5G2BpvNLc/1200x1265.png",
+        "width": 1200
+      }
+    ],
+    "c_weight": "155 lbs",
+    "landingPageUrl": "https://www.wnba.com/player/tiffany-hayes/",
+    "name": "Tiffany Hayes",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 500,
+          "sourceUrl": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/wnba/203026.png",
+          "thumbnails": [
+            {
+              "height": 500,
+              "url": "https://a.mktgcdn.com/p-sandbox/fiI0sMrt5rC2I3H_J5-vip2uanipbnbToUh1PR3NJUM/500x500.png",
+              "width": 500
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/fiI0sMrt5rC2I3H_J5-vip2uanipbnbToUh1PR3NJUM/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/fiI0sMrt5rC2I3H_J5-vip2uanipbnbToUh1PR3NJUM/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/fiI0sMrt5rC2I3H_J5-vip2uanipbnbToUh1PR3NJUM/500x500.png",
+          "width": 500
+        }
+      }
+    ],
+    "yearsOfExperience": 8
+  },
+  "entityType": "ce_athlete",
+  "labels": []
+}

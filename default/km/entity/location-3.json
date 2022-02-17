@@ -1,0 +1,61 @@
+{
+  "$id": "location-3",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Uncasville",
+      "countryCode": "US",
+      "line1": "1 Mohegan Sun Blvd",
+      "postalCode": "06382",
+      "region": "CT"
+    },
+    "c_league": [
+      "organization-1"
+    ],
+    "c_linkedTeams": [
+      "team-3"
+    ],
+    "name": "Mohegan Sun Arena",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 2566,
+          "sourceUrl": "https://www.stadiumjourney.com/wp-content/uploads/2019/07/IMG_0685PHOTORESIZERCROPRESIZEANDSHAREIMAGESINBATCH76201995004PM.jpg",
+          "thumbnails": [
+            {
+              "height": 2566,
+              "url": "https://a.mktgcdn.com/p-sandbox/oGJ5JzCjbAz2pj8OTcQ0677wwekeuaLs3ukB0Wjlzh0/4562x2566.jpg",
+              "width": 4562
+            },
+            {
+              "height": 1069,
+              "url": "https://a.mktgcdn.com/p-sandbox/oGJ5JzCjbAz2pj8OTcQ0677wwekeuaLs3ukB0Wjlzh0/1900x1069.jpg",
+              "width": 1900
+            },
+            {
+              "height": 348,
+              "url": "https://a.mktgcdn.com/p-sandbox/oGJ5JzCjbAz2pj8OTcQ0677wwekeuaLs3ukB0Wjlzh0/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 337,
+              "url": "https://a.mktgcdn.com/p-sandbox/oGJ5JzCjbAz2pj8OTcQ0677wwekeuaLs3ukB0Wjlzh0/600x337.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "https://a.mktgcdn.com/p-sandbox/oGJ5JzCjbAz2pj8OTcQ0677wwekeuaLs3ukB0Wjlzh0/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/oGJ5JzCjbAz2pj8OTcQ0677wwekeuaLs3ukB0Wjlzh0/4562x2566.jpg",
+          "width": 4562
+        }
+      }
+    ],
+    "timezone": "America/New_York"
+  },
+  "entityType": "location",
+  "labels": []
+}

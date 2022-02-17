@@ -1,0 +1,13 @@
+{
+  "$id": "842400571",
+  "$schema": "https://schema.yext.com/config/km/saved-filter/v1",
+  "name": "Default on Initial Search",
+  "filter": {
+    "entityField": [
+      {
+        "fieldId": "c_defaultOnInitialSearch",
+        "searchBool": "TRUE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "$id": "team-1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_conference": "Eastern",
+    "c_league": [
+      "organization-1"
+    ],
+    "c_linkedAthletes": [
+      "athlete-1",
+      "athlete-2",
+      "athlete-3",
+      "athlete-4",
+      "athlete-5",
+      "athlete-6",
+      "athlete-7",
+      "athlete-8",
+      "athlete-9",
+      "athlete-10",
+      "athlete-11",
+      "athlete-12",
+      "athlete-13"
+    ],
+    "c_rosterURL": "http://dream.wnba.com/roster/",
+    "c_scheduleURL": "http://dream.wnba.com/schedule/#?season\u003d2022\u0026seasontype\u003d02",
+    "c_teamAbbreviation": "ATL",
+    "c_teamCity": "Atlanta",
+    "c_teamState": "GA",
+    "landingPageUrl": "http://dream.wnba.com/",
+    "linkedLocation": "location-1",
+    "name": "Atlanta Dream",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 1265,
+          "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Atlanta_Dream_logo.svg/1200px-Atlanta_Dream_logo.svg.png",
+          "thumbnails": [
+            {
+              "height": 1265,
+              "url": "https://a.mktgcdn.com/p-sandbox/Fxxv2Sp331i8pQdmdyi9P4ngnpEJbYY0-b5G2BpvNLc/1200x1265.png",
+              "width": 1200
+            },
+            {
+              "height": 653,
+              "url": "https://a.mktgcdn.com/p-sandbox/Fxxv2Sp331i8pQdmdyi9P4ngnpEJbYY0-b5G2BpvNLc/619x653.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Fxxv2Sp331i8pQdmdyi9P4ngnpEJbYY0-b5G2BpvNLc/427x450.png",
+              "width": 427
+            },
+            {
+              "height": 207,
+              "url": "https://a.mktgcdn.com/p-sandbox/Fxxv2Sp331i8pQdmdyi9P4ngnpEJbYY0-b5G2BpvNLc/196x207.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Fxxv2Sp331i8pQdmdyi9P4ngnpEJbYY0-b5G2BpvNLc/1200x1265.png",
+          "width": 1200
+        }
+      }
+    ]
+  },
+  "entityType": "ce_team",
+  "labels": []
+}

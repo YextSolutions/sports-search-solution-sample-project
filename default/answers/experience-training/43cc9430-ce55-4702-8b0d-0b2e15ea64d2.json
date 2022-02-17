@@ -1,0 +1,46 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "43cc9430-ce55-4702-8b0d-0b2e15ea64d2",
+  "experienceKey": "wnba-demo",
+  "locale": "en",
+  "searchTerm": "center on the new york liberty team",
+  "triggerType": "query",
+  "type": "nlpFilter",
+  "details": {
+    "enforcedPrediction": {
+      "athletes": [
+        {
+          "filter": {
+            "c_linkedTeams.name": {
+              "$eq": "\"New York Liberty\""
+            }
+          }
+        },
+        {
+          "filter": {
+            "c_position": {
+              "$eq": "\"Center\""
+            }
+          }
+        }
+      ],
+      "faqs": [],
+      "jobs": [],
+      "locations": [],
+      "news": [],
+      "products": [],
+      "promotions": [],
+      "teams": [
+        {
+          "filter": {
+            "builtin.entityType": {
+              "$eq": "\"Team\""
+            }
+          }
+        }
+      ],
+      "videos": []
+    },
+    "rejectedPrediction": {}
+  }
+}

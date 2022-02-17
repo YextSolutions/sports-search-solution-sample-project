@@ -1,0 +1,20 @@
+{
+  "$id": "faq-33",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "Live email support is available for any issues or questions you have about WNBA League Pass. You can contact support at leaguepasssupport@wnba.com.",
+    "c_category": [
+      "LeaguePass"
+    ],
+    "c_primaryCTA": {
+      "label": "Email Us",
+      "link": "leaguepasssupport@wnba.com",
+      "linkType": "EMAIL"
+    },
+    "name": "How do I report a problem?",
+    "question": "How do I report a problem?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

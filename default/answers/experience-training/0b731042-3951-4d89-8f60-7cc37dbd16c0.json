@@ -1,0 +1,31 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "0b731042-3951-4d89-8f60-7cc37dbd16c0",
+  "experienceKey": "wnba-demo",
+  "locale": "en",
+  "searchTerm": "what team is ezi magbegor on",
+  "triggerType": "query",
+  "type": "nlpFilter",
+  "details": {
+    "enforcedPrediction": {},
+    "rejectedPrediction": {
+      "athletes": [],
+      "faqs": [],
+      "jobs": [],
+      "locations": [],
+      "news": [],
+      "products": [],
+      "promotions": [],
+      "teams": [
+        {
+          "filter": {
+            "builtin.entityType": {
+              "$eq": "\"Team\""
+            }
+          }
+        }
+      ],
+      "videos": []
+    }
+  }
+}

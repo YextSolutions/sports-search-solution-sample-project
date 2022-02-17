@@ -1,0 +1,31 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "a42d9502-f9ed-4f6c-816f-0a6bbdab7dff",
+  "experienceKey": "wnba-demo",
+  "locale": "en",
+  "searchTerm": "what is ezi magbegor\u0027s team",
+  "triggerType": "query",
+  "type": "nlpFilter",
+  "details": {
+    "enforcedPrediction": {},
+    "rejectedPrediction": {
+      "athletes": [],
+      "faqs": [],
+      "jobs": [],
+      "locations": [],
+      "news": [],
+      "products": [],
+      "promotions": [],
+      "teams": [
+        {
+          "filter": {
+            "builtin.entityType": {
+              "$eq": "\"Team\""
+            }
+          }
+        }
+      ],
+      "videos": []
+    }
+  }
+}

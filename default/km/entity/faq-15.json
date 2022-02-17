@@ -1,0 +1,15 @@
+{
+  "$id": "faq-15",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "The coaches in the 2019 WNBA All-Star Game were Las Vegas’ Bill Laimbeer (#TeamDelleDonne) and Washington’s Mike Thibault (#TeamWilson).",
+    "c_category": [
+      "Events"
+    ],
+    "name": "Who coaches the All-Star teams?",
+    "question": "Who coaches the All-Star teams?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "job.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Job-default",
+  "entityType": "job",
+  "fields": [
+    "c_defaultOnInitialSearch",
+    "c_education",
+    "c_experience",
+    "c_jobSegment",
+    "c_responsibilities",
+    "c_skills"
+  ],
+  "required": []
+}

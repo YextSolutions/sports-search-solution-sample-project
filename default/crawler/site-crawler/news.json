@@ -1,0 +1,15 @@
+{
+  "$id": "news",
+  "$schema": "https://schema.yext.com/config/crawler/site-crawler/v1",
+  "name": "Athletes",
+  "enabled": true,
+  "crawlSchedule": "once",
+  "crawlStrategy": "subPages",
+  "domains": [
+    "https://www.wnba.com"
+  ],
+  "ignoreQueryParameterOption": "none",
+  "subPagesUrlStructures": [
+    "https://www.wnba.com/player/*"
+  ]
+}

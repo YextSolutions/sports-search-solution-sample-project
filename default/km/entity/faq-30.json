@@ -1,0 +1,15 @@
+{
+  "$id": "faq-30",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "WNBA League Pass includes the following features:\n\n\n\n∙ Every game from the 2015-2020 WNBA seasons on demand ∙ Multi-game viewing that allows fans to watch up to four games at once ∙ Statistical overlays that can be toggled on or off ∙ Viewing on multiple devices, including smartphones, tablets and computers",
+    "c_category": [
+      "LeaguePass"
+    ],
+    "name": "What features are offered by WNBA League Pass?",
+    "question": "What features are offered by WNBA League Pass?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

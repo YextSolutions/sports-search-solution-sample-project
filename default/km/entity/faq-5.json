@@ -1,0 +1,15 @@
+{
+  "$id": "faq-5",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "Due to the ongoing pandemic and the Olympic break, instead of the originally planned 36 games, the 2021 regular season will see each team play 32 games – 16 at home and 16 on the road. Each team will play three games apiece versus 10 opponents, and two games – one home and one away – against one team from the opposite conference.",
+    "c_category": [
+      "General"
+    ],
+    "name": "How many games are there in a WNBA season?",
+    "question": "How many games are there in a WNBA season?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

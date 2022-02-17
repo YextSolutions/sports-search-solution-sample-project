@@ -1,0 +1,15 @@
+{
+  "$id": "faq-22",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "While the WNBA season is an action-packed 36 games, many players spend their offseasons continuing to play the game of basketball. Many travel overseas to play in leagues in China, Russia, Israel, or Italy, just to name a few.\n\n\n\nSome players also participate with other national teams in tournament competitions, such as FIBA World Cup.",
+    "c_category": [
+      "Players"
+    ],
+    "name": "What do WNBA players do in the offseason?",
+    "question": "What do WNBA players do in the offseason?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

@@ -1,0 +1,31 @@
+{
+  "$id": "video-9",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": [
+      "2021 WNBA Game Recaps"
+    ],
+    "c_defaultOnInitialSearch": true,
+    "c_embedURL": "https://www.youtube.com/embed/DVHC5wdTkto",
+    "c_league": [
+      "organization-1"
+    ],
+    "c_linkedTeams": [
+      "team-2",
+      "team-4"
+    ],
+    "c_youTubeURL": "https://www.youtube.com/watch?v\u003dDVHC5wdTkto",
+    "description": "The Chicago Sky fly into the Playoffs on a high note after the big 98-87 win over the Indiana Fever.",
+    "name": "INDIANA FEVER vs. CHICAGO SKY | FULL GAME HIGHLIGHTS | September 19, 2021",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dDVHC5wdTkto"
+        }
+      }
+    ]
+  },
+  "entityType": "ce_video",
+  "labels": []
+}

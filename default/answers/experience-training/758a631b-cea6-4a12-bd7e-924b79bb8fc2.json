@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "758a631b-cea6-4a12-bd7e-924b79bb8fc2",
+  "experienceKey": "wnba-demo",
+  "locale": "en",
+  "searchTerm": "how many black coaches have won a wnba championship",
+  "triggerType": "query",
+  "type": "featuredSnippet",
+  "details": {
+    "enforcedPrediction": {
+      "length": 71,
+      "offset": 147
+    },
+    "predictionType": "SPAN_EXTRACTION",
+    "resultText": "Packers just down the street at Soldier Field. Chance the Rapper was once again in attendance to support his hometown team. TIP-INS: Chicago coach James Wade became the third Black male coach to win a WNBA championship, joining Michael Cooper who did it with the Los Angeles Sparks and Corey Gaines, who did it with Phoenix. … Phoenix had been 4-0 in"
+  }
+}

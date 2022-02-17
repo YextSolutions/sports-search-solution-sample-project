@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "939352ae-0e22-4de9-8ccc-01656d494f54",
+  "experienceKey": "wnba-demo",
+  "locale": "en",
+  "searchTerm": "how to watch",
+  "triggerType": "query",
+  "type": "featuredSnippet",
+  "details": {
+    "predictionType": "SPAN_EXTRACTION",
+    "rejectedPrediction": {
+      "length": 14,
+      "offset": 141
+    },
+    "resultText": "times during Chicago\u0027s stunning run, winning the title as a six-seed. \"It feels amazing. My high school coach is here,\" Parker said. \"I know Pat\u0027s (Summitt) watching. Got the whole city here. We got the whole city here. We are champions for life now.\" Brittney Griner was a focal point of"
+  }
+}

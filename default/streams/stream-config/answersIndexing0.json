@@ -1,0 +1,34 @@
+{
+  "$id": "answersIndexing0",
+  "$schema": "https://schema.yext.com/config/streams/stream-config/v1",
+  "source": "knowledgeGraph",
+  "destination": "answers",
+  "fields": [
+    "uid",
+    "id",
+    "timezone",
+    "meta",
+    "savedFilters",
+    "address.city",
+    "address.region",
+    "displayCoordinate",
+    "yextDisplayCoordinate",
+    "geocodedCoordinate",
+    "cityCoordinate",
+    "addressHidden",
+    "c_linkedEvents.name",
+    "c_linkedTeams.name",
+    "keywords",
+    "name"
+  ],
+  "filter": {
+    "entityTypes": [
+      "location"
+    ]
+  },
+  "localization": {
+    "locales": [
+      "en"
+    ]
+  }
+}

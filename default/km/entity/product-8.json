@@ -1,0 +1,53 @@
+{
+  "$id": "product-8",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_defaultOnInitialSearch": true,
+    "c_details": "Product ID: 3946542Fleece liningFront pouch pocketRib-knit cuffs and waistbandHood with drawstringPulloverMidweight hoodie suitable for moderate temperaturesLong sleeveScreen print graphicsMachine wash, tumble dry lowOfficially licensedImportedBrand: Fanatics Branded",
+    "landingPageUrl": "https://www.nylibertystore.com/en/mens-fanatics-branded-orange-wnba-logo-pullover-hoodie/p-47097139722602+z-9633-1963240193?_ref\u003dp-CLP:m-GRID:i-r2c1:po-7",
+    "name": "Men\u0027s Fanatics Branded Orange WNBA Logo Pullover Hoodie",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://images.footballfanatics.com/FFImage/thumb.aspx?i\u003d/productimages/_3946000/altimages/ff_3946542-554a7467aa2f49768778alt1_full.jpg\u0026w\u003d900",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/h81hgPuSYJcSoMwyKSqhJ0JT7wSVAUeZlQ9nhy1d-e4/900x900.jpg",
+              "width": 900
+            },
+            {
+              "height": 619,
+              "url": "https://a.mktgcdn.com/p-sandbox/h81hgPuSYJcSoMwyKSqhJ0JT7wSVAUeZlQ9nhy1d-e4/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/h81hgPuSYJcSoMwyKSqhJ0JT7wSVAUeZlQ9nhy1d-e4/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/h81hgPuSYJcSoMwyKSqhJ0JT7wSVAUeZlQ9nhy1d-e4/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/h81hgPuSYJcSoMwyKSqhJ0JT7wSVAUeZlQ9nhy1d-e4/900x900.jpg",
+          "width": 900
+        }
+      }
+    ],
+    "price": {
+      "currencyCode": "USD",
+      "value": "59.99"
+    },
+    "richTextDescription": "Support the WNBA with this sweet Logo Pullover Hoodie from Fanatics Branded. It\u0027s bold and intense, just like the WNBA. When you sport this hoodie, everyone will know where your loyalties reside.",
+    "sku": "Product ID: 3946542",
+    "targetAgeGroup": "ADULT",
+    "targetGender": "MALE"
+  },
+  "entityType": "product",
+  "labels": []
+}

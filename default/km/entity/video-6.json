@@ -1,0 +1,29 @@
+{
+  "$id": "video-6",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": [
+      "2021 WNBA Top Performers"
+    ],
+    "c_embedURL": "https://www.youtube.com/embed/f2gWoGkyDHs",
+    "c_league": [
+      "organization-1"
+    ],
+    "c_linkedTeams": [
+      "team-7"
+    ],
+    "c_youTubeURL": "https://www.youtube.com/watch?v\u003df2gWoGkyDHs",
+    "description": "Arike Ogunbowale ended the season on a high note with an efficient 20 points on 7-11 shooting to lead the Wings to victory.",
+    "name": "Arike Shows Out For 20 Points In Wings\u0027 Win (September 19, 2021)",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003df2gWoGkyDHs"
+        }
+      }
+    ]
+  },
+  "entityType": "ce_video",
+  "labels": []
+}

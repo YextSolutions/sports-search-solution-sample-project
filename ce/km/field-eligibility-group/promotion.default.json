@@ -1,0 +1,15 @@
+{
+  "$id": "ce_promotion.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Promotion-default",
+  "entityType": "ce_promotion",
+  "fields": [
+    "c_defaultOnInitialSearch",
+    "c_primaryCTA",
+    "c_secondaryCTA",
+    "description",
+    "keywords",
+    "photoGallery"
+  ],
+  "required": []
+}

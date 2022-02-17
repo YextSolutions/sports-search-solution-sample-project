@@ -1,0 +1,77 @@
+{
+  "$id": "athlete-136",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_dateOfBirth": "August 13, 1999",
+    "c_height": "6-4 ft",
+    "c_jersey": "13",
+    "c_linkedTeams": [
+      "team-12"
+    ],
+    "c_position": "Center",
+    "c_teamLogo": [
+      {
+        "height": 1086,
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Seattle_Storm_%282021%29_logo.svg/1200px-Seattle_Storm_%282021%29_logo.svg.png",
+        "thumbnails": [
+          {
+            "height": 1086,
+            "url": "https://a.mktgcdn.com/p-sandbox/wN5bnN4-bA1lk0ZZ1NVrlIzIKtOACITp-_rf2YazJHI/1200x1086.png",
+            "width": 1200
+          },
+          {
+            "height": 560,
+            "url": "https://a.mktgcdn.com/p-sandbox/wN5bnN4-bA1lk0ZZ1NVrlIzIKtOACITp-_rf2YazJHI/619x560.png",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p-sandbox/wN5bnN4-bA1lk0ZZ1NVrlIzIKtOACITp-_rf2YazJHI/497x450.png",
+            "width": 497
+          },
+          {
+            "height": 177,
+            "url": "https://a.mktgcdn.com/p-sandbox/wN5bnN4-bA1lk0ZZ1NVrlIzIKtOACITp-_rf2YazJHI/196x177.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/wN5bnN4-bA1lk0ZZ1NVrlIzIKtOACITp-_rf2YazJHI/1200x1086.png",
+        "width": 1200
+      }
+    ],
+    "c_weight": "176 lbs",
+    "landingPageUrl": "https://www.wnba.com/player/ezi-magbegor/",
+    "name": "Ezi Magbegor",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 500,
+          "sourceUrl": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/wnba/1629496.png",
+          "thumbnails": [
+            {
+              "height": 500,
+              "url": "https://a.mktgcdn.com/p-sandbox/uZs_CRAoaEBZFuRa3vPESw-osMmSjOFxfb3cH64i3wI/500x500.png",
+              "width": 500
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/uZs_CRAoaEBZFuRa3vPESw-osMmSjOFxfb3cH64i3wI/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/uZs_CRAoaEBZFuRa3vPESw-osMmSjOFxfb3cH64i3wI/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/uZs_CRAoaEBZFuRa3vPESw-osMmSjOFxfb3cH64i3wI/500x500.png",
+          "width": 500
+        }
+      }
+    ],
+    "yearsOfExperience": 1
+  },
+  "entityType": "ce_athlete",
+  "labels": []
+}

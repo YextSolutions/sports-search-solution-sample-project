@@ -1,0 +1,15 @@
+{
+  "$id": "faq-13",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "The Minnesota Lynx (2011, 2013, 2015, 2017) and now-defunct Houston Comets have won the most championships in league history. The Comets won the first four WNBA titles in 1997, 1998, 1999 and 2000.\n\n\n\nThe Seattle Storm (2004, 2010, 2018), Los Angeles Sparks (2001, 2002, 2016), Phoenix Mercury (2007, 2009, 2014) and now defunct Detroit Shock (2003, 2006, 2008) are tied for second with three WNBA championships.",
+    "c_category": [
+      "Teams"
+    ],
+    "name": "Which teams have the most WNBA titles?",
+    "question": "Which teams have the most WNBA titles?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

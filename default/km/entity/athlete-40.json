@@ -1,0 +1,82 @@
+{
+  "$id": "athlete-40",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_dateOfBirth": "August 24, 1994",
+    "c_height": "6-10 ft",
+    "c_jersey": "44",
+    "c_linkedTeams": [
+      "team-4"
+    ],
+    "c_position": "Center",
+    "c_teamLogo": [
+      {
+        "height": 1139,
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Indiana_Fever_logo.svg/1200px-Indiana_Fever_logo.svg.png",
+        "thumbnails": [
+          {
+            "height": 1139,
+            "url": "https://a.mktgcdn.com/p-sandbox/9GumRDYe7f-HIiY4NU-ba2UKJqwyGam-Xo4v6UPlKRY/1200x1139.png",
+            "width": 1200
+          },
+          {
+            "height": 588,
+            "url": "https://a.mktgcdn.com/p-sandbox/9GumRDYe7f-HIiY4NU-ba2UKJqwyGam-Xo4v6UPlKRY/619x588.png",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p-sandbox/9GumRDYe7f-HIiY4NU-ba2UKJqwyGam-Xo4v6UPlKRY/474x450.png",
+            "width": 474
+          },
+          {
+            "height": 186,
+            "url": "https://a.mktgcdn.com/p-sandbox/9GumRDYe7f-HIiY4NU-ba2UKJqwyGam-Xo4v6UPlKRY/196x186.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/9GumRDYe7f-HIiY4NU-ba2UKJqwyGam-Xo4v6UPlKRY/1200x1139.png",
+        "width": 1200
+      }
+    ],
+    "c_weight": "208 lbs",
+    "landingPageUrl": "https://www.wnba.com/player/bernadett-hatar/",
+    "name": "Bernadett Hatar",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 1068,
+          "sourceUrl": "https://www.wnba.com/wp-content/themes/wnba-parent/img/placeholder_default.png",
+          "thumbnails": [
+            {
+              "height": 1068,
+              "url": "https://a.mktgcdn.com/p-sandbox/bv_GMGv72yvh4pLlPdn9mhcHo0lvlZfWoryfWRn6n5U/1068x1068.png",
+              "width": 1068
+            },
+            {
+              "height": 619,
+              "url": "https://a.mktgcdn.com/p-sandbox/bv_GMGv72yvh4pLlPdn9mhcHo0lvlZfWoryfWRn6n5U/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/bv_GMGv72yvh4pLlPdn9mhcHo0lvlZfWoryfWRn6n5U/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/bv_GMGv72yvh4pLlPdn9mhcHo0lvlZfWoryfWRn6n5U/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/bv_GMGv72yvh4pLlPdn9mhcHo0lvlZfWoryfWRn6n5U/1068x1068.png",
+          "width": 1068
+        }
+      }
+    ],
+    "yearsOfExperience": 0
+  },
+  "entityType": "ce_athlete",
+  "labels": []
+}

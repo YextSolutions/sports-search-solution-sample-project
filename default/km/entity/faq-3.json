@@ -1,0 +1,15 @@
+{
+  "$id": "faq-3",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "The WNBA was founded on April 24, 1996, and the first season began in 1997. The 2021 season is the 25th in league history.",
+    "c_category": [
+      "General"
+    ],
+    "name": "When was the WNBA established?",
+    "question": "When was the WNBA established?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

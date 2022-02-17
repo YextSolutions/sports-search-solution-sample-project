@@ -1,0 +1,15 @@
+{
+  "$id": "faq-9",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "The official website of the WNBA is WNBA.com. You can also download the WNBA mobile app for iOS and Android devices. On social media, you can follow the WNBA on Facebook, Twitter, Instagram, Snapchat (@WNBA), Giphy and TikTok (@WNBA).",
+    "c_category": [
+      "General"
+    ],
+    "name": "How can I follow the WNBA?",
+    "question": "How can I follow the WNBA?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

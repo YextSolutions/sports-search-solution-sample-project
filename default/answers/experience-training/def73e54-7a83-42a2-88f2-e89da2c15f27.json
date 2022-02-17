@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "def73e54-7a83-42a2-88f2-e89da2c15f27",
+  "experienceKey": "wnba-demo",
+  "locale": "en",
+  "searchTerm": "what position is candace parker",
+  "triggerType": "query",
+  "type": "featuredSnippet",
+  "details": {
+    "predictionType": "SPAN_EXTRACTION",
+    "rejectedPrediction": {
+      "length": 21,
+      "offset": 148
+    },
+    "resultText": "in elimination games (first two single-elimination rounds and Game 5 vs. Las Vegas in the semifinals). And as she stated in her postgame interview, Candace Parker is 0-2 in the WNBA Finals in Game 4 with a chance to clinch a championship at home. Additional News"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "faq-29",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "Yes, you can watch WNBA League Pass games on your mobile device by downloading the WNBA App on your iPhone, iPad, or Android device. Through the app, you will be able to purchase a WNBA League Pass subscription or, if you already purchased through leaguepass.wnba.com, simply log in to your account via the app settings to begin watching.",
+    "c_category": [
+      "LeaguePass"
+    ],
+    "c_primaryCTA": {
+      "label": "Click Here",
+      "link": "https://leaguepass.wnba.com/",
+      "linkType": "URL"
+    },
+    "name": "Can I watch WNBA League Pass games on my mobile device?",
+    "question": "Can I watch WNBA League Pass games on my mobile device?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

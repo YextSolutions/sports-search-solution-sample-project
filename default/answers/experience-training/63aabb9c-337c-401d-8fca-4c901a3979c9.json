@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "63aabb9c-337c-401d-8fca-4c901a3979c9",
+  "experienceKey": "wnba-demo",
+  "locale": "en",
+  "searchTerm": "what athletes are on the seattle storm",
+  "triggerType": "query",
+  "type": "featuredSnippet",
+  "details": {
+    "predictionType": "SPAN_EXTRACTION",
+    "rejectedPrediction": {
+      "length": 13,
+      "offset": 157
+    },
+    "resultText": "Sixth Woman of the Year, injured her knee in the semifinals against Connecticut and is not expected to play in the championship series. Seattle sharpshooter Sami Whitcomb left the bubble to be with her wife as she gives birth to the couple\u0027s first child. Additional News"
+  }
+}

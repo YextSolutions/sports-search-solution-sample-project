@@ -1,0 +1,52 @@
+{
+  "$id": "product-7",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_details": "Product ID: 3907099Material: 100% CottonScreen print graphicsCrew neckLong sleeveMachine wash, tumble dry lowOfficially licensedImportedBrand: Fanatics Branded",
+    "landingPageUrl": "https://www.nylibertystore.com/en/mens-fanatics-branded-black-new-york-liberty-primary-logo-long-sleeve-t-shirt/p-14214452995487+z-9633-2213369899?_ref\u003dp-CLP:m-GRID:i-r2c0:po-6",
+    "name": "Men\u0027s Fanatics Branded Black New York Liberty Primary Logo Long Sleeve T-Shirt",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://images.footballfanatics.com/FFImage/thumb.aspx?i\u003d/productimages/_3907000/altimages/ff_3907099-e2f646c2fd0ff487adf0alt1_full.jpg\u0026w\u003d900",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/yM-sogJeLGcK8xnzLi9UAQvELIlPzF6JT0RrDParYog/900x900.jpg",
+              "width": 900
+            },
+            {
+              "height": 619,
+              "url": "https://a.mktgcdn.com/p-sandbox/yM-sogJeLGcK8xnzLi9UAQvELIlPzF6JT0RrDParYog/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/yM-sogJeLGcK8xnzLi9UAQvELIlPzF6JT0RrDParYog/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/yM-sogJeLGcK8xnzLi9UAQvELIlPzF6JT0RrDParYog/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/yM-sogJeLGcK8xnzLi9UAQvELIlPzF6JT0RrDParYog/900x900.jpg",
+          "width": 900
+        }
+      }
+    ],
+    "price": {
+      "currencyCode": "USD",
+      "value": "31.99"
+    },
+    "richTextDescription": "You\u0027re an avid New York Liberty fan and love to flaunt it. Show the New York Liberty your support by grabbing this Primary Logo Long Sleeve T-Shirt from Fanatics Branded. It features bold New York Liberty graphics, so no one will be able to question where your allegiance lies every time you rock this sweet gear.",
+    "sku": "Product ID: 3907099",
+    "targetAgeGroup": "ADULT",
+    "targetGender": "MALE"
+  },
+  "entityType": "product",
+  "labels": []
+}

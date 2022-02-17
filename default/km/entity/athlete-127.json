@@ -1,0 +1,78 @@
+{
+  "$id": "athlete-127",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_dateOfBirth": "June 11, 1982",
+    "c_defaultOnInitialSearch": true,
+    "c_height": "6-0 ft",
+    "c_jersey": "3",
+    "c_linkedTeams": [
+      "team-11"
+    ],
+    "c_position": "Guard",
+    "c_teamLogo": [
+      {
+        "height": 677,
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Phoenix_Mercury_logo.svg/1200px-Phoenix_Mercury_logo.svg.png",
+        "thumbnails": [
+          {
+            "height": 677,
+            "url": "https://a.mktgcdn.com/p-sandbox/uns1REl1Dsc52g_lM7PcfsVLeJR_3IWh-SeKWjSqcmQ/1200x677.png",
+            "width": 1200
+          },
+          {
+            "height": 349,
+            "url": "https://a.mktgcdn.com/p-sandbox/uns1REl1Dsc52g_lM7PcfsVLeJR_3IWh-SeKWjSqcmQ/619x349.png",
+            "width": 619
+          },
+          {
+            "height": 339,
+            "url": "https://a.mktgcdn.com/p-sandbox/uns1REl1Dsc52g_lM7PcfsVLeJR_3IWh-SeKWjSqcmQ/600x339.png",
+            "width": 600
+          },
+          {
+            "height": 111,
+            "url": "https://a.mktgcdn.com/p-sandbox/uns1REl1Dsc52g_lM7PcfsVLeJR_3IWh-SeKWjSqcmQ/196x111.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/uns1REl1Dsc52g_lM7PcfsVLeJR_3IWh-SeKWjSqcmQ/1200x677.png",
+        "width": 1200
+      }
+    ],
+    "c_weight": "163 lbs",
+    "landingPageUrl": "https://www.wnba.com/player/diana-taurasi/",
+    "name": "Diana Taurasi",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 500,
+          "sourceUrl": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/wnba/100940.png",
+          "thumbnails": [
+            {
+              "height": 500,
+              "url": "https://a.mktgcdn.com/p-sandbox/TxTIAdAk97bz1flCynuZuW9NOobQDTkGGX9K-TU1FfY/500x500.png",
+              "width": 500
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/TxTIAdAk97bz1flCynuZuW9NOobQDTkGGX9K-TU1FfY/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/TxTIAdAk97bz1flCynuZuW9NOobQDTkGGX9K-TU1FfY/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/TxTIAdAk97bz1flCynuZuW9NOobQDTkGGX9K-TU1FfY/500x500.png",
+          "width": 500
+        }
+      }
+    ],
+    "yearsOfExperience": 16
+  },
+  "entityType": "ce_athlete",
+  "labels": []
+}

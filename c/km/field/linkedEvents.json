@@ -1,0 +1,20 @@
+{
+  "$id": "c_linkedEvents",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Linked Events",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "entityReference",
+      "type": {
+        "entityReferenceType": {
+          "supportedEntityTypeIds": [
+            "event"
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

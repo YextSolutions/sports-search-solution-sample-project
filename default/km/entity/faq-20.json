@@ -1,0 +1,15 @@
+{
+  "$id": "faq-20",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "Each quarter of play in the WNBA lasts 10 minutes.",
+    "c_category": [
+      "Game"
+    ],
+    "name": "How long are the quarters?",
+    "question": "How long are the quarters?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

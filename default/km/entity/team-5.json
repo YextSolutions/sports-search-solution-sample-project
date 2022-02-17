@@ -1,0 +1,68 @@
+{
+  "$id": "team-5",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_conference": "Eastern",
+    "c_defaultOnInitialSearch": true,
+    "c_league": [
+      "organization-1"
+    ],
+    "c_linkedAthletes": [
+      "athlete-49",
+      "athlete-50",
+      "athlete-51",
+      "athlete-52",
+      "athlete-53",
+      "athlete-54",
+      "athlete-55",
+      "athlete-56",
+      "athlete-57",
+      "athlete-58",
+      "athlete-59",
+      "athlete-60"
+    ],
+    "c_rosterURL": "http://liberty.wnba.com/roster/",
+    "c_scheduleURL": "http://liberty.wnba.com/schedule/#?season\u003d2022\u0026seasontype\u003d02",
+    "c_teamAbbreviation": "NYL",
+    "c_teamCity": "New York",
+    "c_teamState": "NY",
+    "landingPageUrl": "http://liberty.wnba.com/",
+    "linkedLocation": "location-5",
+    "name": "New York Liberty",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 1465,
+          "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/New_York_Liberty_logo.svg/1200px-New_York_Liberty_logo.svg.png",
+          "thumbnails": [
+            {
+              "height": 1465,
+              "url": "https://a.mktgcdn.com/p-sandbox/MSGCvHrX-T9KxSB7RzwZHxfUnMnNDYXM-CuV085CCo4/1200x1465.png",
+              "width": 1200
+            },
+            {
+              "height": 756,
+              "url": "https://a.mktgcdn.com/p-sandbox/MSGCvHrX-T9KxSB7RzwZHxfUnMnNDYXM-CuV085CCo4/619x756.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/MSGCvHrX-T9KxSB7RzwZHxfUnMnNDYXM-CuV085CCo4/369x450.png",
+              "width": 369
+            },
+            {
+              "height": 239,
+              "url": "https://a.mktgcdn.com/p-sandbox/MSGCvHrX-T9KxSB7RzwZHxfUnMnNDYXM-CuV085CCo4/196x239.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/MSGCvHrX-T9KxSB7RzwZHxfUnMnNDYXM-CuV085CCo4/1200x1465.png",
+          "width": 1200
+        }
+      }
+    ]
+  },
+  "entityType": "ce_team",
+  "labels": []
+}

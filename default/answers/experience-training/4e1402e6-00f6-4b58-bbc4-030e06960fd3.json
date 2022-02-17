@@ -1,0 +1,31 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "4e1402e6-00f6-4b58-bbc4-030e06960fd3",
+  "experienceKey": "wnba-demo",
+  "locale": "en",
+  "searchTerm": "center on the liberty",
+  "triggerType": "query",
+  "type": "nlpFilter",
+  "details": {
+    "enforcedPrediction": {
+      "athletes": [
+        {
+          "filter": {
+            "c_position": {
+              "$eq": "\"Center\""
+            }
+          }
+        }
+      ],
+      "faqs": [],
+      "jobs": [],
+      "locations": [],
+      "news": [],
+      "products": [],
+      "promotions": [],
+      "teams": [],
+      "videos": []
+    },
+    "rejectedPrediction": {}
+  }
+}

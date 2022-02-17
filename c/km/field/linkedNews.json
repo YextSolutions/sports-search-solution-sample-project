@@ -1,0 +1,20 @@
+{
+  "$id": "c_linkedNews",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Linked News",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "entityReference",
+      "type": {
+        "entityReferenceType": {
+          "supportedEntityTypeIds": [
+            "ce_news"
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

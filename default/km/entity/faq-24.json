@@ -1,0 +1,15 @@
+{
+  "$id": "faq-24",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "Just like the NBA, rims in the WNBA hang 10 feet from the floor, sitting on opposite ends of a court that’s 50 feet wide and 94 feet long.\n\n\n\nBoth ends of the floor feature a free throw line, 15 feet from the rim. Per the WNBA rule book, “the three-point field goal area has parallel lines 36″ from the sidelines, extending 63″ from the baseline and an arc of 22’13 /4″ from the middle of the basket which intersects the parallel lines.”\n\n\n\nThe basketball itself has a circumference within a maximum of 29 inches and a minimum of 28.5 inches and has a pressure between 7.5 and 8.6 pounds.",
+    "c_category": [
+      "Game"
+    ],
+    "name": "What are the other measurements?",
+    "question": "What are the other measurements?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

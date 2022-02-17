@@ -1,0 +1,21 @@
+{
+  "$id": "faq-2",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "Want to watch WNBA players work live and in person? Tickets for every team are available on each team website.",
+    "c_category": [
+      "Tickets"
+    ],
+    "c_defaultOnInitialSearch": true,
+    "c_primaryCTA": {
+      "label": "Click Here",
+      "link": "http://www.wnba.com/tickets/",
+      "linkType": "URL"
+    },
+    "name": "Where can I buy tickets to WNBA games?",
+    "question": "Where can I buy tickets to WNBA games?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

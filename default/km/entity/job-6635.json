@@ -1,0 +1,63 @@
+{
+  "$id": "job-6635",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "applicationUrl": "https://career4.successfactors.com/careers?company\u003dNBA",
+    "c_education": "* Undergraduate degree (BA or BS)",
+    "c_experience": "* Minimum of 5\\-7 years of relevant experience\n* Experience with partner services management\n* Proficient with MS Word, Excel and Power Point",
+    "c_jobSegment": [
+      "Advertising",
+      "Branding",
+      "Marketing"
+    ],
+    "c_responsibilities": "* Create and present customized presentations and sales, upsell, and/or renewal materials based on specific partner goals and objectives\n* Independently manage day\\-to\\-day partner activation process including activation planning, promotional development, media planning, advertising creation and approval, hospitality, event coordination and recapping\n* Support in renewal efforts for WNBA partnerships and multi\\-league partnerships that include the WNBA where needed\n* Support MP\\\u0026M WNBA Lead in liaising between GP\\\u0026M, WNBA, Finance, Communications, and other departments that work closely on partner marketing \\\u0026 media partnership matters\n* Lead necessary information gathering and communications in areas such as up\\-to\\-date partnership lists and sponsored programs and platforms, WNBA marketing partner financials, benefit commitments, etc.\n* Collaborate with full sales and account teams on WNBA\\-specific deals\n* Manage budgets and expenses for marketing partners, including fluency in financial reporting\n* Identify and pursue additional revenue/upsell opportunities\n* Prepare creative review submissions and become fluent in WNBA IP guidelines and processes\n* Develop strong relationships with internal constituents and external partners and agencies\n* Provide partnership expertise in the comprehension of contractual elements, understanding of both WNBA\u0027s and partners\u0027 business goals/target audiences/marketing strategy and knowledge of best practices and industry news\n* Proactively seek input from across organization to develop integrated and successful sponsorship activation ideas for potential and existing partners\n* Manage execution of WNBA properties and programs, with a focus on partner activation:\n* Day\\-to\\-day contact with all NBA internal departments on properties\n* Serve as key liaison with events\n* Work closely with account teams on partner objectives and their alignment with program objectives\n* Oversee development and production of creative elements and traffic approvals for program materials\n* Compile and provide internal updates on program development and execution\n* Keep records and recommendations for internal and external purposes\n* Communicate key issues internally via status reports and meeting updates\n* Manage budgets\n* Drive revenue growth through the creation of new sellable marketing programs, identification of sales targets and development of sales strategies\n* Overall inventory management",
+    "c_skills": "* Ability to develop and write thoughtful, customized corporate presentations, partnership proposals, and email communications\n* Ability to communicate effectively with key internal \\\u0026 external stakeholders\n* Understanding of marketing and branding to develop partner activation ideas that achieve both league and partner objectives\n* Knowledge and desire to work in an events/activation capacity for designated events\n* Strong understanding of all facets of sponsorship activation including events, media, marketing rights, content, etc.\n* Ability to multi\\-task\n* Strong organizational skills\n* Strong attention to detail\n* Process\\-oriented\n* Interest in building a positive culture\n* Must be highly motivated, proactive, self\\-starter with high energy and team spirit",
+    "description": "This position will be responsible for managing multi-year corporate partnerships for the WNBA and supporting the MP\u0026M Activation team on assigned WNBA events and programs. The role will manage all aspects of the partner management process from on-boarding, relationship building and management, benefit fulfillment, recapping, upsells, and renewals, while also managing partner benefit fulfillment for WNBA events such as Tip-Off, All-Star Voting \u0026 All-Star, Commissioner’s Cup, Playoffs/Finals.\n\nThe person in this role will serve as a subject matter expert on the WNBA, WNBA Marketing Partners, and how best to maximize partner activation across all WNBA Marketing Partners. There will be a focus on working across the organization to ensure input from key constituents while helping drive the creation, implementation, strategic management and profitability of partner promotional programs and initiatives.",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": "NBA",
+    "landingPageUrl": "https://nbacareers.nba.com/job/New-York-WNBA-Global-Partnerships-\u0026-Activation-New-10022/748707901/",
+    "location": {
+      "externalLocation": "645 5th Ave, New York, NY 10022"
+    },
+    "logo": {
+      "image": {
+        "height": 570,
+        "sourceUrl": "https://a2.espncdn.com/combiner/i?img\u003d%2Fphoto%2F2019%2F0408%2Fr526103_1296x729_16%2D9.png\u0026w\u003d570\u0026h\u003d321\u0026format\u003djpg",
+        "thumbnails": [
+          {
+            "height": 570,
+            "url": "https://a.mktgcdn.com/p-sandbox/h19PdwgeqDb9PAn0PGIPEAVsZxwTZWlA3IfATiYbn3g/570x570.jpg",
+            "width": 570
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p-sandbox/h19PdwgeqDb9PAn0PGIPEAVsZxwTZWlA3IfATiYbn3g/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "https://a.mktgcdn.com/p-sandbox/h19PdwgeqDb9PAn0PGIPEAVsZxwTZWlA3IfATiYbn3g/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/h19PdwgeqDb9PAn0PGIPEAVsZxwTZWlA3IfATiYbn3g/570x570.jpg",
+        "width": 570
+      }
+    },
+    "name": "WNBA Global Partnerships \u0026 Activation",
+    "workRemote": true,
+    "yextBoundingBox": {
+      "northEast": {
+        "latitude": 40.7593784,
+        "longitude": -73.9758367
+      },
+      "southWest": {
+        "latitude": 40.75894450000001,
+        "longitude": -73.976541
+      }
+    }
+  },
+  "entityType": "job",
+  "labels": []
+}

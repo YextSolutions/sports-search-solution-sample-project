@@ -1,0 +1,77 @@
+{
+  "$id": "athlete-106",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_dateOfBirth": "September 8, 1993",
+    "c_height": "6-5 ft",
+    "c_jersey": "1",
+    "c_linkedTeams": [
+      "team-9"
+    ],
+    "c_position": "Center",
+    "c_teamLogo": [
+      {
+        "height": 1200,
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Los_Angeles_Sparks_logo.svg/1200px-Los_Angeles_Sparks_logo.svg.png",
+        "thumbnails": [
+          {
+            "height": 1200,
+            "url": "https://a.mktgcdn.com/p-sandbox/DOxynU2DCWnkNkeY25XKvvV4_4iicBD3NcM_eIO7SoI/1200x1200.png",
+            "width": 1200
+          },
+          {
+            "height": 619,
+            "url": "https://a.mktgcdn.com/p-sandbox/DOxynU2DCWnkNkeY25XKvvV4_4iicBD3NcM_eIO7SoI/619x619.png",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p-sandbox/DOxynU2DCWnkNkeY25XKvvV4_4iicBD3NcM_eIO7SoI/450x450.png",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "https://a.mktgcdn.com/p-sandbox/DOxynU2DCWnkNkeY25XKvvV4_4iicBD3NcM_eIO7SoI/196x196.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/DOxynU2DCWnkNkeY25XKvvV4_4iicBD3NcM_eIO7SoI/1200x1200.png",
+        "width": 1200
+      }
+    ],
+    "c_weight": "184 lbs",
+    "landingPageUrl": "https://www.wnba.com/player/amanda-zahui-b/",
+    "name": "Amanda Zahui B",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 500,
+          "sourceUrl": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/wnba/204320.png",
+          "thumbnails": [
+            {
+              "height": 500,
+              "url": "https://a.mktgcdn.com/p-sandbox/TrSyblgfDhDRNiDfpBz8sDm6SxV01yApjmTrrVC-kJQ/500x500.png",
+              "width": 500
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/TrSyblgfDhDRNiDfpBz8sDm6SxV01yApjmTrrVC-kJQ/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/TrSyblgfDhDRNiDfpBz8sDm6SxV01yApjmTrrVC-kJQ/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/TrSyblgfDhDRNiDfpBz8sDm6SxV01yApjmTrrVC-kJQ/500x500.png",
+          "width": 500
+        }
+      }
+    ],
+    "yearsOfExperience": 6
+  },
+  "entityType": "ce_athlete",
+  "labels": []
+}

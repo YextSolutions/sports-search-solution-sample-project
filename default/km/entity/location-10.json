@@ -1,0 +1,56 @@
+{
+  "$id": "location-10",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Minneapolis",
+      "countryCode": "US",
+      "line1": "600 N 1st Ave",
+      "postalCode": "55403",
+      "region": "MN"
+    },
+    "c_league": [
+      "organization-1"
+    ],
+    "c_linkedTeams": [
+      "team-10"
+    ],
+    "name": "Target Center",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 533,
+          "sourceUrl": "https://www.exploreminnesota.com/sites/default/files/listing_images/a4ae1f109ca76a1574a143785715fe53e9f0a493_34.jpg",
+          "thumbnails": [
+            {
+              "height": 533,
+              "url": "https://a.mktgcdn.com/p-sandbox/hubo_xHsYQIHqb_4xbzH64bMYtxIstSxjmUPji2X7Zw/800x533.jpg",
+              "width": 800
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/hubo_xHsYQIHqb_4xbzH64bMYtxIstSxjmUPji2X7Zw/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/hubo_xHsYQIHqb_4xbzH64bMYtxIstSxjmUPji2X7Zw/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/hubo_xHsYQIHqb_4xbzH64bMYtxIstSxjmUPji2X7Zw/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/hubo_xHsYQIHqb_4xbzH64bMYtxIstSxjmUPji2X7Zw/800x533.jpg",
+          "width": 800
+        }
+      }
+    ],
+    "timezone": "America/Chicago"
+  },
+  "entityType": "location",
+  "labels": []
+}

@@ -1,0 +1,56 @@
+{
+  "$id": "location-8",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Las Vegas",
+      "countryCode": "US",
+      "line1": "3950 Las Vegas Blvd S",
+      "postalCode": "89109",
+      "region": "NV"
+    },
+    "c_league": [
+      "organization-1"
+    ],
+    "c_linkedTeams": [
+      "team-8"
+    ],
+    "name": "Michelob ULTRA Arena",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 866,
+          "sourceUrl": "https://www.travelweekly.com/uploadedImages/All_TW_Art/2021/0222/T0222MBULTRA2_HR.jpg?n\u003d6218\u0026width\u003d1540\u0026height\u003d866\u0026mode\u003dcrop\u0026Anchor\u003dMiddleCenter",
+          "thumbnails": [
+            {
+              "height": 866,
+              "url": "https://a.mktgcdn.com/p-sandbox/JnnNgJDJfV0COG_BHId2aXmUNa5BhjxawSrOP0Nu1jk/1540x866.jpg",
+              "width": 1540
+            },
+            {
+              "height": 348,
+              "url": "https://a.mktgcdn.com/p-sandbox/JnnNgJDJfV0COG_BHId2aXmUNa5BhjxawSrOP0Nu1jk/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 337,
+              "url": "https://a.mktgcdn.com/p-sandbox/JnnNgJDJfV0COG_BHId2aXmUNa5BhjxawSrOP0Nu1jk/600x337.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "https://a.mktgcdn.com/p-sandbox/JnnNgJDJfV0COG_BHId2aXmUNa5BhjxawSrOP0Nu1jk/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/JnnNgJDJfV0COG_BHId2aXmUNa5BhjxawSrOP0Nu1jk/1540x866.jpg",
+          "width": 1540
+        }
+      }
+    ],
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

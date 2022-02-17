@@ -1,0 +1,15 @@
+{
+  "$id": "faq-4",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "There are 12 teams – six in each conference. The conferences are divided between the Eastern Conference and the Western Conference.\n\n\n\nThe teams and their conferences are as follows: Atlanta Dream (Eastern Conference), Chicago Sky (Eastern Conference), Connecticut Sun (Eastern Conference), Dallas Wings (Western Conference), Indiana Fever (Eastern Conference), Las Vegas Aces (Western Conference), Los Angeles Sparks (Western Conference), New York Liberty (Eastern Conference), Minnesota Lynx (Western Conference), Phoenix Mercury (Western Conference), Seattle Storm (Western Conference) and Washington Mystics (Eastern Conference).\n\n\n\nWhen the WNBA was launched, it featured eight teams: Charlotte Sting, Cleveland Rockers, Houston Comets, New York Liberty, Los Angeles Sparks, Phoenix Mercury, Sacramento Monarchs and Utah Starzz.",
+    "c_category": [
+      "General"
+    ],
+    "name": "How many teams are there in the WNBA?",
+    "question": "How many teams are there in the WNBA?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

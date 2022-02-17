@@ -1,0 +1,77 @@
+{
+  "$id": "athlete-93",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_dateOfBirth": "May 28, 1990",
+    "c_height": "5-7 ft",
+    "c_jersey": "2",
+    "c_linkedTeams": [
+      "team-8"
+    ],
+    "c_position": "Guard",
+    "c_teamLogo": [
+      {
+        "height": 1684,
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Las_Vegas_Aces_logo.svg/1200px-Las_Vegas_Aces_logo.svg.png",
+        "thumbnails": [
+          {
+            "height": 1684,
+            "url": "https://a.mktgcdn.com/p-sandbox/IThkIjR94peQH8kRNWnwrak0zGJdcoeGFmI60Nnujhk/1200x1684.png",
+            "width": 1200
+          },
+          {
+            "height": 869,
+            "url": "https://a.mktgcdn.com/p-sandbox/IThkIjR94peQH8kRNWnwrak0zGJdcoeGFmI60Nnujhk/619x869.png",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p-sandbox/IThkIjR94peQH8kRNWnwrak0zGJdcoeGFmI60Nnujhk/321x450.png",
+            "width": 321
+          },
+          {
+            "height": 275,
+            "url": "https://a.mktgcdn.com/p-sandbox/IThkIjR94peQH8kRNWnwrak0zGJdcoeGFmI60Nnujhk/196x275.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/IThkIjR94peQH8kRNWnwrak0zGJdcoeGFmI60Nnujhk/1200x1684.png",
+        "width": 1200
+      }
+    ],
+    "c_weight": "165 lbs",
+    "landingPageUrl": "https://www.wnba.com/player/riquna-williams/",
+    "name": "Riquna Williams",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 500,
+          "sourceUrl": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/wnba/203029.png",
+          "thumbnails": [
+            {
+              "height": 500,
+              "url": "https://a.mktgcdn.com/p-sandbox/9A_ZRXvgvUy3rKpns8Bu4qoxwZxpkh_LQSBgZ3fIKlQ/500x500.png",
+              "width": 500
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/9A_ZRXvgvUy3rKpns8Bu4qoxwZxpkh_LQSBgZ3fIKlQ/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/9A_ZRXvgvUy3rKpns8Bu4qoxwZxpkh_LQSBgZ3fIKlQ/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/9A_ZRXvgvUy3rKpns8Bu4qoxwZxpkh_LQSBgZ3fIKlQ/500x500.png",
+          "width": 500
+        }
+      }
+    ],
+    "yearsOfExperience": 8
+  },
+  "entityType": "ce_athlete",
+  "labels": []
+}

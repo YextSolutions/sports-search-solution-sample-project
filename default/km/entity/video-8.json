@@ -1,0 +1,30 @@
+{
+  "$id": "video-8",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": [
+      "2021 WNBA Top Performers"
+    ],
+    "c_embedURL": "https://www.youtube.com/embed/_BuvfuHsVF0",
+    "c_league": [
+      "organization-1"
+    ],
+    "c_linkedTeams": [
+      "team-8",
+      "team-11"
+    ],
+    "c_youTubeURL": "https://www.youtube.com/watch?v\u003d_BuvfuHsVF0",
+    "description": "Kelsey Plum did her thing tonight with 23 points to lead the Aces past the Mercury in a thriller.",
+    "name": "Kelsey Plum Goes Off For 23 Points In Aces\u0027 Win (September 19, 2021)",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003d_BuvfuHsVF0"
+        }
+      }
+    ]
+  },
+  "entityType": "ce_video",
+  "labels": []
+}

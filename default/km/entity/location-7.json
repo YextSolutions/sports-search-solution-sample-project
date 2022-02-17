@@ -1,0 +1,56 @@
+{
+  "$id": "location-7",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Arlington",
+      "countryCode": "US",
+      "line1": "600 S Center St",
+      "postalCode": "76019",
+      "region": "TX"
+    },
+    "c_league": [
+      "organization-1"
+    ],
+    "c_linkedTeams": [
+      "team-7"
+    ],
+    "name": "College Park Center",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 1125,
+          "sourceUrl": "https://www.stadiumjourney.com/wp-content/uploads/2019/09/College-Park-Center-Interior.jpg",
+          "thumbnails": [
+            {
+              "height": 1125,
+              "url": "https://a.mktgcdn.com/p-sandbox/0baAFFog4CFm-R22QcgPU7BCnr60VQJ4xeoH3LlB468/1687x1125.jpg",
+              "width": 1687
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/0baAFFog4CFm-R22QcgPU7BCnr60VQJ4xeoH3LlB468/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/0baAFFog4CFm-R22QcgPU7BCnr60VQJ4xeoH3LlB468/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/0baAFFog4CFm-R22QcgPU7BCnr60VQJ4xeoH3LlB468/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/0baAFFog4CFm-R22QcgPU7BCnr60VQJ4xeoH3LlB468/1687x1125.jpg",
+          "width": 1687
+        }
+      }
+    ],
+    "timezone": "America/Chicago"
+  },
+  "entityType": "location",
+  "labels": []
+}

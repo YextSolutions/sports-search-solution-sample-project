@@ -1,0 +1,77 @@
+{
+  "$id": "athlete-14",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_dateOfBirth": "October 27, 1994",
+    "c_height": "5-9 ft",
+    "c_jersey": "7",
+    "c_linkedTeams": [
+      "team-2"
+    ],
+    "c_position": "Guard",
+    "c_teamLogo": [
+      {
+        "height": 1378,
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Chicago_Sky_logo.svg/1200px-Chicago_Sky_logo.svg.png",
+        "thumbnails": [
+          {
+            "height": 1378,
+            "url": "https://a.mktgcdn.com/p-sandbox/hghj36CVPjfYHOC7tgASZsdx17YL7edx_mQZdaAyTtM/1200x1378.png",
+            "width": 1200
+          },
+          {
+            "height": 711,
+            "url": "https://a.mktgcdn.com/p-sandbox/hghj36CVPjfYHOC7tgASZsdx17YL7edx_mQZdaAyTtM/619x711.png",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p-sandbox/hghj36CVPjfYHOC7tgASZsdx17YL7edx_mQZdaAyTtM/392x450.png",
+            "width": 392
+          },
+          {
+            "height": 225,
+            "url": "https://a.mktgcdn.com/p-sandbox/hghj36CVPjfYHOC7tgASZsdx17YL7edx_mQZdaAyTtM/196x225.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/hghj36CVPjfYHOC7tgASZsdx17YL7edx_mQZdaAyTtM/1200x1378.png",
+        "width": 1200
+      }
+    ],
+    "c_weight": "162 lbs",
+    "landingPageUrl": "https://www.wnba.com/player/lexie-brown/",
+    "name": "Lexie Brown",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 500,
+          "sourceUrl": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/wnba/1628882.png",
+          "thumbnails": [
+            {
+              "height": 500,
+              "url": "https://a.mktgcdn.com/p-sandbox/fo-Hx_1HZn4MDigScpbHir8BHZC5m2t8nnukCcC6cgI/500x500.png",
+              "width": 500
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/fo-Hx_1HZn4MDigScpbHir8BHZC5m2t8nnukCcC6cgI/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/fo-Hx_1HZn4MDigScpbHir8BHZC5m2t8nnukCcC6cgI/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/fo-Hx_1HZn4MDigScpbHir8BHZC5m2t8nnukCcC6cgI/500x500.png",
+          "width": 500
+        }
+      }
+    ],
+    "yearsOfExperience": 3
+  },
+  "entityType": "ce_athlete",
+  "labels": []
+}

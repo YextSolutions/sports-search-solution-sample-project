@@ -1,0 +1,77 @@
+{
+  "$id": "athlete-25",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_dateOfBirth": "August 21, 1987",
+    "c_height": "6-4 ft",
+    "c_jersey": "24",
+    "c_linkedTeams": [
+      "team-3"
+    ],
+    "c_position": "Foward-Guard",
+    "c_teamLogo": [
+      {
+        "height": 1321,
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Connecticut_Sun_logo.svg/1200px-Connecticut_Sun_logo.svg.png",
+        "thumbnails": [
+          {
+            "height": 1321,
+            "url": "https://a.mktgcdn.com/p-sandbox/S_a0dufCMkQoBPDkrIW5lq3ymbez1r30YZ5M6NNCnfw/1200x1321.png",
+            "width": 1200
+          },
+          {
+            "height": 681,
+            "url": "https://a.mktgcdn.com/p-sandbox/S_a0dufCMkQoBPDkrIW5lq3ymbez1r30YZ5M6NNCnfw/619x681.png",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p-sandbox/S_a0dufCMkQoBPDkrIW5lq3ymbez1r30YZ5M6NNCnfw/409x450.png",
+            "width": 409
+          },
+          {
+            "height": 216,
+            "url": "https://a.mktgcdn.com/p-sandbox/S_a0dufCMkQoBPDkrIW5lq3ymbez1r30YZ5M6NNCnfw/196x216.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/S_a0dufCMkQoBPDkrIW5lq3ymbez1r30YZ5M6NNCnfw/1200x1321.png",
+        "width": 1200
+      }
+    ],
+    "c_weight": "142 lbs",
+    "landingPageUrl": "https://www.wnba.com/player/dewanna-bonner/",
+    "name": "DeWanna Bonner",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 500,
+          "sourceUrl": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/wnba/201886.png",
+          "thumbnails": [
+            {
+              "height": 500,
+              "url": "https://a.mktgcdn.com/p-sandbox/HdDjpV_u_MRVrK8Lc8_InhLR8AGzkTuDVdFj-ajiqnE/500x500.png",
+              "width": 500
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/HdDjpV_u_MRVrK8Lc8_InhLR8AGzkTuDVdFj-ajiqnE/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/HdDjpV_u_MRVrK8Lc8_InhLR8AGzkTuDVdFj-ajiqnE/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/HdDjpV_u_MRVrK8Lc8_InhLR8AGzkTuDVdFj-ajiqnE/500x500.png",
+          "width": 500
+        }
+      }
+    ],
+    "yearsOfExperience": 11
+  },
+  "entityType": "ce_athlete",
+  "labels": []
+}

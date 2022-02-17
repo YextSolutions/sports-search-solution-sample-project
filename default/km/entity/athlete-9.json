@@ -1,0 +1,77 @@
+{
+  "$id": "athlete-9",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_dateOfBirth": "August 20, 1998",
+    "c_height": "5-6 ft",
+    "c_jersey": "4",
+    "c_linkedTeams": [
+      "team-1"
+    ],
+    "c_position": "Guard",
+    "c_teamLogo": [
+      {
+        "height": 1265,
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Atlanta_Dream_logo.svg/1200px-Atlanta_Dream_logo.svg.png",
+        "thumbnails": [
+          {
+            "height": 1265,
+            "url": "https://a.mktgcdn.com/p-sandbox/Fxxv2Sp331i8pQdmdyi9P4ngnpEJbYY0-b5G2BpvNLc/1200x1265.png",
+            "width": 1200
+          },
+          {
+            "height": 653,
+            "url": "https://a.mktgcdn.com/p-sandbox/Fxxv2Sp331i8pQdmdyi9P4ngnpEJbYY0-b5G2BpvNLc/619x653.png",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p-sandbox/Fxxv2Sp331i8pQdmdyi9P4ngnpEJbYY0-b5G2BpvNLc/427x450.png",
+            "width": 427
+          },
+          {
+            "height": 207,
+            "url": "https://a.mktgcdn.com/p-sandbox/Fxxv2Sp331i8pQdmdyi9P4ngnpEJbYY0-b5G2BpvNLc/196x207.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/Fxxv2Sp331i8pQdmdyi9P4ngnpEJbYY0-b5G2BpvNLc/1200x1265.png",
+        "width": 1200
+      }
+    ],
+    "c_weight": "141 lbs",
+    "landingPageUrl": "https://www.wnba.com/player/aari-mcdonald/",
+    "name": "Aari McDonald",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 500,
+          "sourceUrl": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/wnba/1630462.png",
+          "thumbnails": [
+            {
+              "height": 500,
+              "url": "https://a.mktgcdn.com/p-sandbox/M2VohiyKSeskg0NtVZsic_rsNQr4yn4O9ao271973c0/500x500.png",
+              "width": 500
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/M2VohiyKSeskg0NtVZsic_rsNQr4yn4O9ao271973c0/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/M2VohiyKSeskg0NtVZsic_rsNQr4yn4O9ao271973c0/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/M2VohiyKSeskg0NtVZsic_rsNQr4yn4O9ao271973c0/500x500.png",
+          "width": 500
+        }
+      }
+    ],
+    "yearsOfExperience": 0
+  },
+  "entityType": "ce_athlete",
+  "labels": []
+}

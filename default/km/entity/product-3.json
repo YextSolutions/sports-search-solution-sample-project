@@ -1,0 +1,52 @@
+{
+  "$id": "product-3",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_details": "Product ID: 3116037Sizing Tip: Product runs small. We recommend ordering one size larger than you normally wear.Material: 70% Cotton/30% PolyesterFront pouch pocketRib-knit cuffs and waistHood with drawstringMidweight hoodie suitable for moderate temperaturesScreen print graphicsSoft fleece liningTagless CollarOfficially licensedImportedBrand: Fanatics Branded",
+    "landingPageUrl": "https://www.nylibertystore.com/en/mens-fanatics-branded-heathered-gray-new-york-liberty-primary-logo-pullover-hoodie/p-47235695997074+z-9392-179391486?_ref\u003dp-CLP:m-GRID:i-r0c2:po-2",
+    "name": "Men\u0027s Fanatics Branded Heathered Gray New York Liberty Primary Logo Pullover Hoodie",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://images.footballfanatics.com/FFImage/thumb.aspx?i\u003d/productimages/_3116000/altimages/ff_3116037alt1_full.jpg\u0026w\u003d900",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/xCsY-GAhLTnC6lWZa8NvIiLc9rd3hKBhRPQmjFMR8Iw/900x900.jpg",
+              "width": 900
+            },
+            {
+              "height": 619,
+              "url": "https://a.mktgcdn.com/p-sandbox/xCsY-GAhLTnC6lWZa8NvIiLc9rd3hKBhRPQmjFMR8Iw/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/xCsY-GAhLTnC6lWZa8NvIiLc9rd3hKBhRPQmjFMR8Iw/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/xCsY-GAhLTnC6lWZa8NvIiLc9rd3hKBhRPQmjFMR8Iw/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/xCsY-GAhLTnC6lWZa8NvIiLc9rd3hKBhRPQmjFMR8Iw/900x900.jpg",
+          "width": 900
+        }
+      }
+    ],
+    "price": {
+      "currencyCode": "USD",
+      "value": "59.99"
+    },
+    "richTextDescription": "Represent the New York Liberty even when the temperature drops with this quality Fanatics Branded Primary Logo pullover hoodie.",
+    "sku": "Product ID: 3116037",
+    "targetAgeGroup": "ADULT",
+    "targetGender": "MALE"
+  },
+  "entityType": "product",
+  "labels": []
+}

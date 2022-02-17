@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "ea76906f-307d-447e-9c57-81aa9098cb36",
+  "experienceKey": "wnba-demo",
+  "locale": "en",
+  "searchTerm": "how do i watch the next game",
+  "triggerType": "query",
+  "type": "featuredSnippet",
+  "details": {
+    "predictionType": "SPAN_EXTRACTION",
+    "rejectedPrediction": {
+      "length": 13,
+      "offset": 138
+    },
+    "resultText": "quarter. PACKED HOUSE The Sky drew a sell-out crowd despite the Chicago Bears hosting the rival Green Bay Packers just down the street at Soldier Field. Chance the Rapper was once again in attendance to support his hometown team. TIP-INS: Chicago coach James Wade became the third Black male coach"
+  }
+}

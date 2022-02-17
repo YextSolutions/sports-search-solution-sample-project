@@ -1,0 +1,31 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "6733a6de-1753-4c04-b4d5-4f89239ad5cd",
+  "experienceKey": "wnba-demo",
+  "locale": "en",
+  "searchTerm": "locations",
+  "triggerType": "query",
+  "type": "nlpFilter",
+  "details": {
+    "enforcedPrediction": {
+      "athletes": [],
+      "faqs": [],
+      "jobs": [],
+      "locations": [
+        {
+          "filter": {
+            "builtin.entityType": {
+              "$eq": "\"Locations\""
+            }
+          }
+        }
+      ],
+      "news": [],
+      "products": [],
+      "promotions": [],
+      "teams": [],
+      "videos": []
+    },
+    "rejectedPrediction": {}
+  }
+}

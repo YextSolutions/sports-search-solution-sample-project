@@ -1,0 +1,15 @@
+{
+  "$id": "faq-19",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "Each WNBA team has a maximum roster size of 12 players, as outlined in the league’s CBA.",
+    "c_category": [
+      "General"
+    ],
+    "name": "How many players are on a WNBA roster?",
+    "question": "How many players are on a WNBA roster?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

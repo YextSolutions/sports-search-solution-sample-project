@@ -1,0 +1,56 @@
+{
+  "$id": "location-11",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Phoenix",
+      "countryCode": "US",
+      "line1": "201 E Jefferson Street",
+      "postalCode": "85004",
+      "region": "AZ"
+    },
+    "c_league": [
+      "organization-1"
+    ],
+    "c_linkedTeams": [
+      "team-11"
+    ],
+    "name": "Footprint Center",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 641,
+          "sourceUrl": "https://media.12news.com/assets/KPNX/images/289f1082-574f-4901-849c-981079b675a4/289f1082-574f-4901-849c-981079b675a4_1140x641.jpg",
+          "thumbnails": [
+            {
+              "height": 641,
+              "url": "https://a.mktgcdn.com/p-sandbox/T0_-RYAlOYlrtecx2hpz7WtJTr66TvHaJ_QraGzLNCk/1140x641.jpg",
+              "width": 1140
+            },
+            {
+              "height": 348,
+              "url": "https://a.mktgcdn.com/p-sandbox/T0_-RYAlOYlrtecx2hpz7WtJTr66TvHaJ_QraGzLNCk/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 337,
+              "url": "https://a.mktgcdn.com/p-sandbox/T0_-RYAlOYlrtecx2hpz7WtJTr66TvHaJ_QraGzLNCk/600x337.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "https://a.mktgcdn.com/p-sandbox/T0_-RYAlOYlrtecx2hpz7WtJTr66TvHaJ_QraGzLNCk/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/T0_-RYAlOYlrtecx2hpz7WtJTr66TvHaJ_QraGzLNCk/1140x641.jpg",
+          "width": 1140
+        }
+      }
+    ],
+    "timezone": "America/Phoenix"
+  },
+  "entityType": "location",
+  "labels": []
+}

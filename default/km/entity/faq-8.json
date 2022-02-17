@@ -1,0 +1,26 @@
+{
+  "$id": "faq-8",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "The WNBA national television schedule can be found below. A complete list of telecasts to air on NBA TV and CBS Sports Network in the United States and on Sportsnet and TSN in Canada will be announced at a later date. The schedule of WNBA games to be streamed on Twitter as well as those available on WNBA League Pass will also be announced at a later date. Games will also be televised in select markets via local broadcasters. Please check local listings for details.\n\n\n\nNon-nationally televised WNBA games are available on WNBA League Pass. Local blackouts may apply to live games in select markets. Subscriptions are $16.99 for the season and give you instant access to WNBA action all year long on your desktop, tablet or phone. You can also purchase a Team Pass for $9.99 for the season to watch your favorite team or watch single games for $1.99.",
+    "c_category": [
+      "Watch"
+    ],
+    "c_defaultOnInitialSearch": true,
+    "c_primaryCTA": {
+      "label": "Schedule",
+      "link": "https://www.wnba.com/national-tv-schedule/",
+      "linkType": "URL"
+    },
+    "c_secondaryCTA": {
+      "label": "League Pass",
+      "link": "https://leaguepass.wnba.com/",
+      "linkType": "URL"
+    },
+    "name": "How can I watch WNBA games?",
+    "question": "How can I watch WNBA games?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

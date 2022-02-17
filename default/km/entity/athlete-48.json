@@ -1,0 +1,77 @@
+{
+  "$id": "athlete-48",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_dateOfBirth": "August 28, 1998",
+    "c_height": "5-10 ft",
+    "c_jersey": "1",
+    "c_linkedTeams": [
+      "team-4"
+    ],
+    "c_position": "Guard",
+    "c_teamLogo": [
+      {
+        "height": 1139,
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Indiana_Fever_logo.svg/1200px-Indiana_Fever_logo.svg.png",
+        "thumbnails": [
+          {
+            "height": 1139,
+            "url": "https://a.mktgcdn.com/p-sandbox/9GumRDYe7f-HIiY4NU-ba2UKJqwyGam-Xo4v6UPlKRY/1200x1139.png",
+            "width": 1200
+          },
+          {
+            "height": 588,
+            "url": "https://a.mktgcdn.com/p-sandbox/9GumRDYe7f-HIiY4NU-ba2UKJqwyGam-Xo4v6UPlKRY/619x588.png",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p-sandbox/9GumRDYe7f-HIiY4NU-ba2UKJqwyGam-Xo4v6UPlKRY/474x450.png",
+            "width": 474
+          },
+          {
+            "height": 186,
+            "url": "https://a.mktgcdn.com/p-sandbox/9GumRDYe7f-HIiY4NU-ba2UKJqwyGam-Xo4v6UPlKRY/196x186.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/9GumRDYe7f-HIiY4NU-ba2UKJqwyGam-Xo4v6UPlKRY/1200x1139.png",
+        "width": 1200
+      }
+    ],
+    "c_weight": "172 lbs",
+    "landingPageUrl": "https://www.wnba.com/player/aaliyah-wilson/",
+    "name": "Aaliyah Wilson",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 500,
+          "sourceUrl": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/wnba/1630458.png",
+          "thumbnails": [
+            {
+              "height": 500,
+              "url": "https://a.mktgcdn.com/p-sandbox/qzt7YpW7C8gbI3gT-qX5HIbzXzK85re2ANX2TWfWU_w/500x500.png",
+              "width": 500
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/qzt7YpW7C8gbI3gT-qX5HIbzXzK85re2ANX2TWfWU_w/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/qzt7YpW7C8gbI3gT-qX5HIbzXzK85re2ANX2TWfWU_w/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/qzt7YpW7C8gbI3gT-qX5HIbzXzK85re2ANX2TWfWU_w/500x500.png",
+          "width": 500
+        }
+      }
+    ],
+    "yearsOfExperience": 0
+  },
+  "entityType": "ce_athlete",
+  "labels": []
+}

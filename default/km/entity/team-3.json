@@ -1,0 +1,66 @@
+{
+  "$id": "team-3",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_conference": "Eastern",
+    "c_league": [
+      "organization-1"
+    ],
+    "c_linkedAthletes": [
+      "athlete-25",
+      "athlete-26",
+      "athlete-27",
+      "athlete-28",
+      "athlete-29",
+      "athlete-30",
+      "athlete-31",
+      "athlete-32",
+      "athlete-33",
+      "athlete-34",
+      "athlete-35"
+    ],
+    "c_rosterURL": "http://sun.wnba.com/roster/",
+    "c_scheduleURL": "http://sun.wnba.com/schedule/#?season\u003d2022\u0026seasontype\u003d02",
+    "c_teamAbbreviation": "CON",
+    "c_teamCity": "Uncasville",
+    "c_teamState": "CT",
+    "landingPageUrl": "http://sun.wnba.com/",
+    "linkedLocation": "location-3",
+    "name": "Connecticut Sun",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 1321,
+          "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Connecticut_Sun_logo.svg/1200px-Connecticut_Sun_logo.svg.png",
+          "thumbnails": [
+            {
+              "height": 1321,
+              "url": "https://a.mktgcdn.com/p-sandbox/S_a0dufCMkQoBPDkrIW5lq3ymbez1r30YZ5M6NNCnfw/1200x1321.png",
+              "width": 1200
+            },
+            {
+              "height": 681,
+              "url": "https://a.mktgcdn.com/p-sandbox/S_a0dufCMkQoBPDkrIW5lq3ymbez1r30YZ5M6NNCnfw/619x681.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/S_a0dufCMkQoBPDkrIW5lq3ymbez1r30YZ5M6NNCnfw/409x450.png",
+              "width": 409
+            },
+            {
+              "height": 216,
+              "url": "https://a.mktgcdn.com/p-sandbox/S_a0dufCMkQoBPDkrIW5lq3ymbez1r30YZ5M6NNCnfw/196x216.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/S_a0dufCMkQoBPDkrIW5lq3ymbez1r30YZ5M6NNCnfw/1200x1321.png",
+          "width": 1200
+        }
+      }
+    ]
+  },
+  "entityType": "ce_team",
+  "labels": []
+}

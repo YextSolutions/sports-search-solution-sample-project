@@ -1,0 +1,56 @@
+{
+  "$id": "location-9",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Los Angeles",
+      "countryCode": "US",
+      "line1": "1111 S Figueroa St",
+      "postalCode": "90015",
+      "region": "CA"
+    },
+    "c_league": [
+      "organization-1"
+    ],
+    "c_linkedTeams": [
+      "team-9"
+    ],
+    "name": "Crypto.com Arena",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 500,
+          "sourceUrl": "https://content-files.shure.com/CaseStudies/staples-center-wins-with-shure-wireless/images/staples-center-wins-with-shure-wireless_header.jpg",
+          "thumbnails": [
+            {
+              "height": 500,
+              "url": "https://a.mktgcdn.com/p-sandbox/1BQnWRHPchj8xd-MHe4pMoUxWu716BCJD0wW4KNayAY/1000x500.jpg",
+              "width": 1000
+            },
+            {
+              "height": 310,
+              "url": "https://a.mktgcdn.com/p-sandbox/1BQnWRHPchj8xd-MHe4pMoUxWu716BCJD0wW4KNayAY/619x310.jpg",
+              "width": 619
+            },
+            {
+              "height": 300,
+              "url": "https://a.mktgcdn.com/p-sandbox/1BQnWRHPchj8xd-MHe4pMoUxWu716BCJD0wW4KNayAY/600x300.jpg",
+              "width": 600
+            },
+            {
+              "height": 98,
+              "url": "https://a.mktgcdn.com/p-sandbox/1BQnWRHPchj8xd-MHe4pMoUxWu716BCJD0wW4KNayAY/196x98.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/1BQnWRHPchj8xd-MHe4pMoUxWu716BCJD0wW4KNayAY/1000x500.jpg",
+          "width": 1000
+        }
+      }
+    ],
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

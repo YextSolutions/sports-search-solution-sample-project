@@ -1,0 +1,77 @@
+{
+  "$id": "athlete-64",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_dateOfBirth": "September 5, 1989",
+    "c_height": "6-5 ft",
+    "c_jersey": "11",
+    "c_linkedTeams": [
+      "team-6"
+    ],
+    "c_position": "Foward-Guard",
+    "c_teamLogo": [
+      {
+        "height": 1024,
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Washington_Mystics_logo.svg/1200px-Washington_Mystics_logo.svg.png",
+        "thumbnails": [
+          {
+            "height": 1024,
+            "url": "https://a.mktgcdn.com/p-sandbox/gNJFYIBWYKSWeFiU_QIBFuW0l-Ss2LIl2cFC8vfjGxI/1200x1024.png",
+            "width": 1200
+          },
+          {
+            "height": 528,
+            "url": "https://a.mktgcdn.com/p-sandbox/gNJFYIBWYKSWeFiU_QIBFuW0l-Ss2LIl2cFC8vfjGxI/619x528.png",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p-sandbox/gNJFYIBWYKSWeFiU_QIBFuW0l-Ss2LIl2cFC8vfjGxI/527x450.png",
+            "width": 527
+          },
+          {
+            "height": 167,
+            "url": "https://a.mktgcdn.com/p-sandbox/gNJFYIBWYKSWeFiU_QIBFuW0l-Ss2LIl2cFC8vfjGxI/196x167.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/gNJFYIBWYKSWeFiU_QIBFuW0l-Ss2LIl2cFC8vfjGxI/1200x1024.png",
+        "width": 1200
+      }
+    ],
+    "c_weight": "187 lbs",
+    "landingPageUrl": "https://www.wnba.com/player/elena-delle-donne/",
+    "name": "Elena Delle Donne",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 500,
+          "sourceUrl": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/wnba/203399.png",
+          "thumbnails": [
+            {
+              "height": 500,
+              "url": "https://a.mktgcdn.com/p-sandbox/9Hc-xHGJr0glZ_u-m3vASzzKjPLP5tWJbbNvBZKtfJ4/500x500.png",
+              "width": 500
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/9Hc-xHGJr0glZ_u-m3vASzzKjPLP5tWJbbNvBZKtfJ4/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/9Hc-xHGJr0glZ_u-m3vASzzKjPLP5tWJbbNvBZKtfJ4/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/9Hc-xHGJr0glZ_u-m3vASzzKjPLP5tWJbbNvBZKtfJ4/500x500.png",
+          "width": 500
+        }
+      }
+    ],
+    "yearsOfExperience": 7
+  },
+  "entityType": "ce_athlete",
+  "labels": []
+}

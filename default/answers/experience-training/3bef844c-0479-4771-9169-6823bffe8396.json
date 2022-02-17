@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "3bef844c-0479-4771-9169-6823bffe8396",
+  "experienceKey": "wnba-demo",
+  "locale": "en",
+  "searchTerm": "where can i watch chicago sky highlights",
+  "triggerType": "query",
+  "type": "featuredSnippet",
+  "details": {
+    "predictionType": "SPAN_EXTRACTION",
+    "rejectedPrediction": {
+      "length": 238,
+      "offset": 113
+    },
+    "resultText": "left to give the Mercury an 84-81 lead, and Gray responded with a 3 just 6 seconds later to tie it for the Aces. The Mercury will face the Chicago Sky in a rematch of the 2014 finals, the last time either team advanced that far. Game 1 is on Sunday. The Aces went on a 14-2 run to begin the third quarter to take a 56-46 lead midway through the period. Additional News Copyright 2022 NBA Media Ventures, LLC. All rights reserved. No portion of NBA.com may be duplicated, redistributed or manipulated in any form. By"
+  }
+}

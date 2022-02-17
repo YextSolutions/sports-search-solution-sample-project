@@ -1,0 +1,56 @@
+{
+  "$id": "location-5",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Brooklyn",
+      "countryCode": "US",
+      "line1": "620 Atlantic Ave",
+      "postalCode": "11217",
+      "region": "NY"
+    },
+    "c_league": [
+      "organization-1"
+    ],
+    "c_linkedTeams": [
+      "team-5"
+    ],
+    "name": "Barclays Center",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 720,
+          "sourceUrl": "https://i.ytimg.com/vi/6vr1CmKl9ZI/maxresdefault.jpg",
+          "thumbnails": [
+            {
+              "height": 720,
+              "url": "https://a.mktgcdn.com/p-sandbox/cC5UpmyOc6RmG-24_eI2JzXydbdZcRC5PshJCrisStU/1280x720.jpg",
+              "width": 1280
+            },
+            {
+              "height": 348,
+              "url": "https://a.mktgcdn.com/p-sandbox/cC5UpmyOc6RmG-24_eI2JzXydbdZcRC5PshJCrisStU/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "https://a.mktgcdn.com/p-sandbox/cC5UpmyOc6RmG-24_eI2JzXydbdZcRC5PshJCrisStU/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "https://a.mktgcdn.com/p-sandbox/cC5UpmyOc6RmG-24_eI2JzXydbdZcRC5PshJCrisStU/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/cC5UpmyOc6RmG-24_eI2JzXydbdZcRC5PshJCrisStU/1280x720.jpg",
+          "width": 1280
+        }
+      }
+    ],
+    "timezone": "America/New_York"
+  },
+  "entityType": "location",
+  "labels": []
+}

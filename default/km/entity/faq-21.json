@@ -1,0 +1,15 @@
+{
+  "$id": "faq-21",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "Just like the NBA, the shot clock is 24 seconds.",
+    "c_category": [
+      "Game"
+    ],
+    "name": "How long is the shot clock?",
+    "question": "How long is the shot clock?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

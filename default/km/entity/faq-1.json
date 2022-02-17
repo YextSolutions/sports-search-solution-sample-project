@@ -1,0 +1,15 @@
+{
+  "$id": "faq-1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "The Women’s National Basketball Association, or WNBA, is a professional basketball league comprised of 12 teams featuring the best women’s basketball players in the world.",
+    "c_category": [
+      "General"
+    ],
+    "name": "What is the WNBA?",
+    "question": "What is the WNBA?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

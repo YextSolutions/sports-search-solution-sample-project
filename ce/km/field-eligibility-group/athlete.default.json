@@ -1,0 +1,20 @@
+{
+  "$id": "ce_athlete.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Athlete-default",
+  "entityType": "ce_athlete",
+  "fields": [
+    "c_dateOfBirth",
+    "c_defaultOnInitialSearch",
+    "c_height",
+    "c_jersey",
+    "c_linkedTeams",
+    "c_position",
+    "c_teamLogo",
+    "c_weight",
+    "landingPageUrl",
+    "photoGallery",
+    "yearsOfExperience"
+  ],
+  "required": []
+}

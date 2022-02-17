@@ -1,0 +1,75 @@
+{
+  "$id": "ce_video",
+  "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
+  "entityType": "ce_video",
+  "displayName": "Video",
+  "presentationEntries": [
+    {
+      "displayName": "Content",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Core Information",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "name",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "entityId",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "c_category"
+        },
+        {
+          "id": "c_youTubeURL"
+        },
+        {
+          "id": "c_embedURL"
+        },
+        {
+          "id": "description"
+        },
+        {
+          "id": "videos"
+        }
+      ]
+    },
+    {
+      "displayName": "Linked Entities",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "c_league"
+        },
+        {
+          "id": "c_linkedTeams"
+        },
+        {
+          "id": "c_linkedAthletes"
+        },
+        {
+          "id": "c_linkedEvents"
+        }
+      ]
+    },
+    {
+      "displayName": "Other",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Internal Use Only",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "folder"
+        },
+        {
+          "id": "labels"
+        }
+      ]
+    }
+  ]
+}

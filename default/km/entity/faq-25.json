@@ -1,0 +1,21 @@
+{
+  "$id": "faq-25",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "WNBA League Pass can be purchased at leaguepass.wnba.com and through in-app purchases on iPhone, iPad, Android smartphones and Android tablets. To purchase through mobile devices, users must first download the WNBA App.",
+    "c_category": [
+      "LeaguePass"
+    ],
+    "c_defaultOnInitialSearch": true,
+    "c_primaryCTA": {
+      "label": "Click Here",
+      "link": "https://leaguepass.wnba.com/",
+      "linkType": "URL"
+    },
+    "name": "How do I sign up for WNBA League Pass?",
+    "question": "How do I sign up for WNBA League Pass?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

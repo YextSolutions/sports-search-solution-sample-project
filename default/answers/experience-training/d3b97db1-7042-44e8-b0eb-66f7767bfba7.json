@@ -1,0 +1,38 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "d3b97db1-7042-44e8-b0eb-66f7767bfba7",
+  "experienceKey": "wnba-demo",
+  "locale": "en",
+  "searchTerm": "forward on thenew york liberty",
+  "triggerType": "query",
+  "type": "nlpFilter",
+  "details": {
+    "enforcedPrediction": {
+      "athletes": [
+        {
+          "filter": {
+            "c_position": {
+              "$eq": "\"Forward\""
+            }
+          }
+        },
+        {
+          "filter": {
+            "c_linkedTeams.name": {
+              "$eq": "\"New York Liberty\""
+            }
+          }
+        }
+      ],
+      "faqs": [],
+      "jobs": [],
+      "locations": [],
+      "news": [],
+      "products": [],
+      "promotions": [],
+      "teams": [],
+      "videos": []
+    },
+    "rejectedPrediction": {}
+  }
+}

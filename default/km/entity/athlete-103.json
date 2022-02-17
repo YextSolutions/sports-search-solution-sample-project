@@ -1,0 +1,77 @@
+{
+  "$id": "athlete-103",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_dateOfBirth": "January 27, 1987",
+    "c_height": "5-7 ft",
+    "c_jersey": "20",
+    "c_linkedTeams": [
+      "team-9"
+    ],
+    "c_position": "Guard",
+    "c_teamLogo": [
+      {
+        "height": 1200,
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Los_Angeles_Sparks_logo.svg/1200px-Los_Angeles_Sparks_logo.svg.png",
+        "thumbnails": [
+          {
+            "height": 1200,
+            "url": "https://a.mktgcdn.com/p-sandbox/DOxynU2DCWnkNkeY25XKvvV4_4iicBD3NcM_eIO7SoI/1200x1200.png",
+            "width": 1200
+          },
+          {
+            "height": 619,
+            "url": "https://a.mktgcdn.com/p-sandbox/DOxynU2DCWnkNkeY25XKvvV4_4iicBD3NcM_eIO7SoI/619x619.png",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p-sandbox/DOxynU2DCWnkNkeY25XKvvV4_4iicBD3NcM_eIO7SoI/450x450.png",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "https://a.mktgcdn.com/p-sandbox/DOxynU2DCWnkNkeY25XKvvV4_4iicBD3NcM_eIO7SoI/196x196.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/DOxynU2DCWnkNkeY25XKvvV4_4iicBD3NcM_eIO7SoI/1200x1200.png",
+        "width": 1200
+      }
+    ],
+    "c_weight": "130 lbs",
+    "landingPageUrl": "https://www.wnba.com/player/kristi-toliver/",
+    "name": "Kristi Toliver",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 500,
+          "sourceUrl": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/wnba/201911.png",
+          "thumbnails": [
+            {
+              "height": 500,
+              "url": "https://a.mktgcdn.com/p-sandbox/3ih4_KjNTxllk93E-7HjkJObfoOQl0iTmdKSicOfCAA/500x500.png",
+              "width": 500
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/3ih4_KjNTxllk93E-7HjkJObfoOQl0iTmdKSicOfCAA/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/3ih4_KjNTxllk93E-7HjkJObfoOQl0iTmdKSicOfCAA/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/3ih4_KjNTxllk93E-7HjkJObfoOQl0iTmdKSicOfCAA/500x500.png",
+          "width": 500
+        }
+      }
+    ],
+    "yearsOfExperience": 11
+  },
+  "entityType": "ce_athlete",
+  "labels": []
+}

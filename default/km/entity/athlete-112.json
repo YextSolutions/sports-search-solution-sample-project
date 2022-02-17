@@ -1,0 +1,77 @@
+{
+  "$id": "athlete-112",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_dateOfBirth": "September 23, 1996",
+    "c_height": "6-1 ft",
+    "c_jersey": "24",
+    "c_linkedTeams": [
+      "team-10"
+    ],
+    "c_position": "Forward",
+    "c_teamLogo": [
+      {
+        "height": 1125,
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Minnesota_Lynx_logo.svg/1200px-Minnesota_Lynx_logo.svg.png",
+        "thumbnails": [
+          {
+            "height": 1125,
+            "url": "https://a.mktgcdn.com/p-sandbox/HIUB0-n9ctUd2HsB_yERdzUzhOTDWW6qFmmMsk9G8fk/1200x1125.png",
+            "width": 1200
+          },
+          {
+            "height": 580,
+            "url": "https://a.mktgcdn.com/p-sandbox/HIUB0-n9ctUd2HsB_yERdzUzhOTDWW6qFmmMsk9G8fk/619x580.png",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p-sandbox/HIUB0-n9ctUd2HsB_yERdzUzhOTDWW6qFmmMsk9G8fk/480x450.png",
+            "width": 480
+          },
+          {
+            "height": 184,
+            "url": "https://a.mktgcdn.com/p-sandbox/HIUB0-n9ctUd2HsB_yERdzUzhOTDWW6qFmmMsk9G8fk/196x184.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/HIUB0-n9ctUd2HsB_yERdzUzhOTDWW6qFmmMsk9G8fk/1200x1125.png",
+        "width": 1200
+      }
+    ],
+    "c_weight": "182 lbs",
+    "landingPageUrl": "https://www.wnba.com/player/napheesa-collier/",
+    "name": "Napheesa Collier",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 500,
+          "sourceUrl": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/wnba/1629483.png",
+          "thumbnails": [
+            {
+              "height": 500,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ns08wEK1oWWyF_7o292RXQVQChco10OGh-x53I4i5zI/500x500.png",
+              "width": 500
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ns08wEK1oWWyF_7o292RXQVQChco10OGh-x53I4i5zI/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ns08wEK1oWWyF_7o292RXQVQChco10OGh-x53I4i5zI/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Ns08wEK1oWWyF_7o292RXQVQChco10OGh-x53I4i5zI/500x500.png",
+          "width": 500
+        }
+      }
+    ],
+    "yearsOfExperience": 2
+  },
+  "entityType": "ce_athlete",
+  "labels": []
+}

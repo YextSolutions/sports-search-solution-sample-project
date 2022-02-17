@@ -1,0 +1,61 @@
+{
+  "$id": "location-2",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Chicago",
+      "countryCode": "US",
+      "line1": "200 E Cermak Road",
+      "postalCode": "60616",
+      "region": "IL"
+    },
+    "c_league": [
+      "organization-1"
+    ],
+    "c_linkedTeams": [
+      "team-2"
+    ],
+    "name": "Wintrust Arena",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 1298,
+          "sourceUrl": "https://arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/GOUWHRR7RFFETFHX5LGOTTDQ6E.jpg",
+          "thumbnails": [
+            {
+              "height": 1298,
+              "url": "https://a.mktgcdn.com/p-sandbox/FfI1eZ1L73u5Hrj6X9F42o9ljJo00T9aadxLPwOw0Tw/2048x1298.jpg",
+              "width": 2048
+            },
+            {
+              "height": 1204,
+              "url": "https://a.mktgcdn.com/p-sandbox/FfI1eZ1L73u5Hrj6X9F42o9ljJo00T9aadxLPwOw0Tw/1900x1204.jpg",
+              "width": 1900
+            },
+            {
+              "height": 392,
+              "url": "https://a.mktgcdn.com/p-sandbox/FfI1eZ1L73u5Hrj6X9F42o9ljJo00T9aadxLPwOw0Tw/619x392.jpg",
+              "width": 619
+            },
+            {
+              "height": 380,
+              "url": "https://a.mktgcdn.com/p-sandbox/FfI1eZ1L73u5Hrj6X9F42o9ljJo00T9aadxLPwOw0Tw/600x380.jpg",
+              "width": 600
+            },
+            {
+              "height": 124,
+              "url": "https://a.mktgcdn.com/p-sandbox/FfI1eZ1L73u5Hrj6X9F42o9ljJo00T9aadxLPwOw0Tw/196x124.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/FfI1eZ1L73u5Hrj6X9F42o9ljJo00T9aadxLPwOw0Tw/2048x1298.jpg",
+          "width": 2048
+        }
+      }
+    ],
+    "timezone": "America/Chicago"
+  },
+  "entityType": "location",
+  "labels": []
+}

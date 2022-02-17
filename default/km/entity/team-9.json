@@ -1,0 +1,67 @@
+{
+  "$id": "team-9",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_conference": "Western",
+    "c_defaultOnInitialSearch": true,
+    "c_league": [
+      "organization-1"
+    ],
+    "c_linkedAthletes": [
+      "athlete-96",
+      "athlete-97",
+      "athlete-98",
+      "athlete-99",
+      "athlete-100",
+      "athlete-101",
+      "athlete-102",
+      "athlete-103",
+      "athlete-104",
+      "athlete-105",
+      "athlete-106"
+    ],
+    "c_rosterURL": "http://sparks.wnba.com/roster/",
+    "c_scheduleURL": "http://sparks.wnba.com/schedule/#?season\u003d2022\u0026seasontype\u003d02",
+    "c_teamAbbreviation": "LAS",
+    "c_teamCity": "Los Angeles",
+    "c_teamState": "CA",
+    "landingPageUrl": "http://sparks.wnba.com/",
+    "linkedLocation": "location-9",
+    "name": "Los Angeles Sparks",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 1200,
+          "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Los_Angeles_Sparks_logo.svg/1200px-Los_Angeles_Sparks_logo.svg.png",
+          "thumbnails": [
+            {
+              "height": 1200,
+              "url": "https://a.mktgcdn.com/p-sandbox/DOxynU2DCWnkNkeY25XKvvV4_4iicBD3NcM_eIO7SoI/1200x1200.png",
+              "width": 1200
+            },
+            {
+              "height": 619,
+              "url": "https://a.mktgcdn.com/p-sandbox/DOxynU2DCWnkNkeY25XKvvV4_4iicBD3NcM_eIO7SoI/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/DOxynU2DCWnkNkeY25XKvvV4_4iicBD3NcM_eIO7SoI/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/DOxynU2DCWnkNkeY25XKvvV4_4iicBD3NcM_eIO7SoI/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/DOxynU2DCWnkNkeY25XKvvV4_4iicBD3NcM_eIO7SoI/1200x1200.png",
+          "width": 1200
+        }
+      }
+    ]
+  },
+  "entityType": "ce_team",
+  "labels": []
+}

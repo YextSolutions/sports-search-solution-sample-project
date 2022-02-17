@@ -1,0 +1,42 @@
+{
+  "$id": "answersIndexingApi",
+  "$schema": "https://schema.yext.com/config/streams/streams-endpoint/v1",
+  "name": "Answers Indexing Endpoint",
+  "stream": {
+    "source": "knowledgeGraph",
+    "fields": [
+      "address.city",
+      "address.region",
+      "body",
+      "c_dateOfBirth",
+      "c_height",
+      "c_linkedAthletes.name",
+      "c_linkedTeams",
+      "c_position",
+      "c_weight",
+      "id",
+      "linkedLocation.name",
+      "meta",
+      "yearsOfExperience"
+    ],
+    "filter": {
+      "entityTypes": [
+        "location",
+        "ce_news",
+        "ce_team",
+        "ce_athlete"
+      ]
+    },
+    "localization": {
+      "locales": [
+        "en"
+      ],
+      "excludePrimary": true
+    }
+  },
+  "fieldIndexes": [
+    {
+      "field": "uid"
+    }
+  ]
+}

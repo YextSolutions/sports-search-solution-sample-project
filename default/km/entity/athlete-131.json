@@ -1,0 +1,72 @@
+{
+  "$id": "athlete-131",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_dateOfBirth": "October 16, 1980",
+    "c_height": "5-9 ft",
+    "c_jersey": "10",
+    "c_linkedTeams": [
+      "team-12"
+    ],
+    "c_position": "Guard",
+    "c_teamLogo": [
+      {
+        "height": 1086,
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Seattle_Storm_%282021%29_logo.svg/1200px-Seattle_Storm_%282021%29_logo.svg.png",
+        "thumbnails": [
+          {
+            "height": 1086,
+            "url": "https://a.mktgcdn.com/p-sandbox/wN5bnN4-bA1lk0ZZ1NVrlIzIKtOACITp-_rf2YazJHI/1200x1086.png",
+            "width": 1200
+          },
+          {
+            "height": 560,
+            "url": "https://a.mktgcdn.com/p-sandbox/wN5bnN4-bA1lk0ZZ1NVrlIzIKtOACITp-_rf2YazJHI/619x560.png",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p-sandbox/wN5bnN4-bA1lk0ZZ1NVrlIzIKtOACITp-_rf2YazJHI/497x450.png",
+            "width": 497
+          },
+          {
+            "height": 177,
+            "url": "https://a.mktgcdn.com/p-sandbox/wN5bnN4-bA1lk0ZZ1NVrlIzIKtOACITp-_rf2YazJHI/196x177.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/wN5bnN4-bA1lk0ZZ1NVrlIzIKtOACITp-_rf2YazJHI/1200x1086.png",
+        "width": 1200
+      }
+    ],
+    "c_weight": "150 lbs",
+    "landingPageUrl": "https://www.wnba.com/player/sue-bird/",
+    "name": "Sue Bird",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 436,
+          "sourceUrl": "https://a.espncdn.com/i/headshots/wnba/players/full/91.png",
+          "thumbnails": [
+            {
+              "height": 436,
+              "url": "https://a.mktgcdn.com/p-sandbox/H5LBJJTUBbwVOzMIxTNjBnVKi64VZAA9xQj2eMtA6Mo/600x436.png",
+              "width": 600
+            },
+            {
+              "height": 142,
+              "url": "https://a.mktgcdn.com/p-sandbox/H5LBJJTUBbwVOzMIxTNjBnVKi64VZAA9xQj2eMtA6Mo/196x142.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/H5LBJJTUBbwVOzMIxTNjBnVKi64VZAA9xQj2eMtA6Mo/600x436.png",
+          "width": 600
+        }
+      }
+    ],
+    "yearsOfExperience": 17
+  },
+  "entityType": "ce_athlete",
+  "labels": []
+}

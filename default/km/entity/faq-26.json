@@ -1,0 +1,20 @@
+{
+  "$id": "faq-26",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "Pricing and packages for the full season are available at leaguepass.wnba.com.",
+    "c_category": [
+      "LeaguePass"
+    ],
+    "c_primaryCTA": {
+      "label": "Click Here",
+      "link": "https://leaguepass.wnba.com/",
+      "linkType": "URL"
+    },
+    "name": "How much is WNBA League Pass?",
+    "question": "How much is WNBA League Pass?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

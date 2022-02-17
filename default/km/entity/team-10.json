@@ -1,0 +1,69 @@
+{
+  "$id": "team-10",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_conference": "Western",
+    "c_defaultOnInitialSearch": true,
+    "c_league": [
+      "organization-1"
+    ],
+    "c_linkedAthletes": [
+      "athlete-107",
+      "athlete-108",
+      "athlete-109",
+      "athlete-110",
+      "athlete-111",
+      "athlete-112",
+      "athlete-113",
+      "athlete-114",
+      "athlete-115",
+      "athlete-116",
+      "athlete-117",
+      "athlete-118",
+      "athlete-119"
+    ],
+    "c_rosterURL": "http://lynx.wnba.com/roster/",
+    "c_scheduleURL": "http://lynx.wnba.com/schedule/#?season\u003d2022\u0026seasontype\u003d02",
+    "c_teamAbbreviation": "MIN",
+    "c_teamCity": "Minneapolis",
+    "c_teamState": "MN",
+    "landingPageUrl": "http://lynx.wnba.com/",
+    "linkedLocation": "location-10",
+    "name": "Minnesota Lynx",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 1125,
+          "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Minnesota_Lynx_logo.svg/1200px-Minnesota_Lynx_logo.svg.png",
+          "thumbnails": [
+            {
+              "height": 1125,
+              "url": "https://a.mktgcdn.com/p-sandbox/HIUB0-n9ctUd2HsB_yERdzUzhOTDWW6qFmmMsk9G8fk/1200x1125.png",
+              "width": 1200
+            },
+            {
+              "height": 580,
+              "url": "https://a.mktgcdn.com/p-sandbox/HIUB0-n9ctUd2HsB_yERdzUzhOTDWW6qFmmMsk9G8fk/619x580.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/HIUB0-n9ctUd2HsB_yERdzUzhOTDWW6qFmmMsk9G8fk/480x450.png",
+              "width": 480
+            },
+            {
+              "height": 184,
+              "url": "https://a.mktgcdn.com/p-sandbox/HIUB0-n9ctUd2HsB_yERdzUzhOTDWW6qFmmMsk9G8fk/196x184.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/HIUB0-n9ctUd2HsB_yERdzUzhOTDWW6qFmmMsk9G8fk/1200x1125.png",
+          "width": 1200
+        }
+      }
+    ]
+  },
+  "entityType": "ce_team",
+  "labels": []
+}

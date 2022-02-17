@@ -1,0 +1,56 @@
+{
+  "$id": "location-1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Atlanta",
+      "countryCode": "US",
+      "line1": "2000 Convention Center Concourse",
+      "postalCode": "30337",
+      "region": "GA"
+    },
+    "c_league": [
+      "organization-1"
+    ],
+    "c_linkedTeams": [
+      "team-1"
+    ],
+    "name": "Gateway Center Arena",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 720,
+          "sourceUrl": "https://www.sportsvideo.org/new/wp-content/uploads/2020/02/Featured-1-e1582824839683.jpg",
+          "thumbnails": [
+            {
+              "height": 720,
+              "url": "https://a.mktgcdn.com/p-sandbox/BUFo1BBITwP3p85p42eWQAFwOyUhRLh2CgFV2j_0kuk/1200x720.jpg",
+              "width": 1200
+            },
+            {
+              "height": 371,
+              "url": "https://a.mktgcdn.com/p-sandbox/BUFo1BBITwP3p85p42eWQAFwOyUhRLh2CgFV2j_0kuk/619x371.jpg",
+              "width": 619
+            },
+            {
+              "height": 360,
+              "url": "https://a.mktgcdn.com/p-sandbox/BUFo1BBITwP3p85p42eWQAFwOyUhRLh2CgFV2j_0kuk/600x360.jpg",
+              "width": 600
+            },
+            {
+              "height": 118,
+              "url": "https://a.mktgcdn.com/p-sandbox/BUFo1BBITwP3p85p42eWQAFwOyUhRLh2CgFV2j_0kuk/196x118.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/BUFo1BBITwP3p85p42eWQAFwOyUhRLh2CgFV2j_0kuk/1200x720.jpg",
+          "width": 1200
+        }
+      }
+    ],
+    "timezone": "America/New_York"
+  },
+  "entityType": "location",
+  "labels": []
+}

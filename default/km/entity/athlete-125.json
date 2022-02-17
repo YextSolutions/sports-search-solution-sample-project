@@ -1,0 +1,77 @@
+{
+  "$id": "athlete-125",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_dateOfBirth": "October 28, 1988",
+    "c_height": "5-7 ft",
+    "c_jersey": "5",
+    "c_linkedTeams": [
+      "team-11"
+    ],
+    "c_position": "Guard",
+    "c_teamLogo": [
+      {
+        "height": 677,
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Phoenix_Mercury_logo.svg/1200px-Phoenix_Mercury_logo.svg.png",
+        "thumbnails": [
+          {
+            "height": 677,
+            "url": "https://a.mktgcdn.com/p-sandbox/uns1REl1Dsc52g_lM7PcfsVLeJR_3IWh-SeKWjSqcmQ/1200x677.png",
+            "width": 1200
+          },
+          {
+            "height": 349,
+            "url": "https://a.mktgcdn.com/p-sandbox/uns1REl1Dsc52g_lM7PcfsVLeJR_3IWh-SeKWjSqcmQ/619x349.png",
+            "width": 619
+          },
+          {
+            "height": 339,
+            "url": "https://a.mktgcdn.com/p-sandbox/uns1REl1Dsc52g_lM7PcfsVLeJR_3IWh-SeKWjSqcmQ/600x339.png",
+            "width": 600
+          },
+          {
+            "height": 111,
+            "url": "https://a.mktgcdn.com/p-sandbox/uns1REl1Dsc52g_lM7PcfsVLeJR_3IWh-SeKWjSqcmQ/196x111.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/uns1REl1Dsc52g_lM7PcfsVLeJR_3IWh-SeKWjSqcmQ/1200x677.png",
+        "width": 1200
+      }
+    ],
+    "c_weight": "147 lbs",
+    "landingPageUrl": "https://www.wnba.com/player/shey-peddy/",
+    "name": "Shey Peddy",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 500,
+          "sourceUrl": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/wnba/203035.png",
+          "thumbnails": [
+            {
+              "height": 500,
+              "url": "https://a.mktgcdn.com/p-sandbox/lZwST9ioFGo8gwzkA2HjtiEDag_A01PUxQW_bvbPPU4/500x500.png",
+              "width": 500
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/lZwST9ioFGo8gwzkA2HjtiEDag_A01PUxQW_bvbPPU4/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/lZwST9ioFGo8gwzkA2HjtiEDag_A01PUxQW_bvbPPU4/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/lZwST9ioFGo8gwzkA2HjtiEDag_A01PUxQW_bvbPPU4/500x500.png",
+          "width": 500
+        }
+      }
+    ],
+    "yearsOfExperience": 2
+  },
+  "entityType": "ce_athlete",
+  "labels": []
+}

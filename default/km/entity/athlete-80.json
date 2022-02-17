@@ -1,0 +1,82 @@
+{
+  "$id": "athlete-80",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_dateOfBirth": "August 19, 2001",
+    "c_height": "6-4 ft",
+    "c_jersey": "28",
+    "c_linkedTeams": [
+      "team-7"
+    ],
+    "c_position": "Center",
+    "c_teamLogo": [
+      {
+        "height": 764,
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Dallas_Wings_logo.svg/1200px-Dallas_Wings_logo.svg.png",
+        "thumbnails": [
+          {
+            "height": 764,
+            "url": "https://a.mktgcdn.com/p-sandbox/LuldtAgVE_BIS-vw_r1myde9TwHtF2hI1pM-O2KOYTI/1200x764.png",
+            "width": 1200
+          },
+          {
+            "height": 394,
+            "url": "https://a.mktgcdn.com/p-sandbox/LuldtAgVE_BIS-vw_r1myde9TwHtF2hI1pM-O2KOYTI/619x394.png",
+            "width": 619
+          },
+          {
+            "height": 382,
+            "url": "https://a.mktgcdn.com/p-sandbox/LuldtAgVE_BIS-vw_r1myde9TwHtF2hI1pM-O2KOYTI/600x382.png",
+            "width": 600
+          },
+          {
+            "height": 125,
+            "url": "https://a.mktgcdn.com/p-sandbox/LuldtAgVE_BIS-vw_r1myde9TwHtF2hI1pM-O2KOYTI/196x125.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/LuldtAgVE_BIS-vw_r1myde9TwHtF2hI1pM-O2KOYTI/1200x764.png",
+        "width": 1200
+      }
+    ],
+    "c_weight": "168 lbs",
+    "landingPageUrl": "https://www.wnba.com/player/awak-kuier/",
+    "name": "Awak Kuier",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 1068,
+          "sourceUrl": "https://www.wnba.com/wp-content/themes/wnba-parent/img/placeholder_default.png",
+          "thumbnails": [
+            {
+              "height": 1068,
+              "url": "https://a.mktgcdn.com/p-sandbox/bv_GMGv72yvh4pLlPdn9mhcHo0lvlZfWoryfWRn6n5U/1068x1068.png",
+              "width": 1068
+            },
+            {
+              "height": 619,
+              "url": "https://a.mktgcdn.com/p-sandbox/bv_GMGv72yvh4pLlPdn9mhcHo0lvlZfWoryfWRn6n5U/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/bv_GMGv72yvh4pLlPdn9mhcHo0lvlZfWoryfWRn6n5U/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/bv_GMGv72yvh4pLlPdn9mhcHo0lvlZfWoryfWRn6n5U/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/bv_GMGv72yvh4pLlPdn9mhcHo0lvlZfWoryfWRn6n5U/1068x1068.png",
+          "width": 1068
+        }
+      }
+    ],
+    "yearsOfExperience": 0
+  },
+  "entityType": "ce_athlete",
+  "labels": []
+}

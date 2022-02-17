@@ -1,0 +1,67 @@
+{
+  "$id": "team-8",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_conference": "Western",
+    "c_defaultOnInitialSearch": true,
+    "c_league": [
+      "organization-1"
+    ],
+    "c_linkedAthletes": [
+      "athlete-85",
+      "athlete-86",
+      "athlete-87",
+      "athlete-88",
+      "athlete-89",
+      "athlete-90",
+      "athlete-91",
+      "athlete-92",
+      "athlete-93",
+      "athlete-94",
+      "athlete-95"
+    ],
+    "c_rosterURL": "http://aces.wnba.com/roster/",
+    "c_scheduleURL": "http://aces.wnba.com/schedule/#?season\u003d2022\u0026seasontype\u003d02",
+    "c_teamAbbreviation": "LVA",
+    "c_teamCity": "Las Vegas",
+    "c_teamState": "NV",
+    "landingPageUrl": "http://aces.wnba.com/",
+    "linkedLocation": "location-8",
+    "name": "Las Vegas Aces",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 1684,
+          "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Las_Vegas_Aces_logo.svg/1200px-Las_Vegas_Aces_logo.svg.png",
+          "thumbnails": [
+            {
+              "height": 1684,
+              "url": "https://a.mktgcdn.com/p-sandbox/IThkIjR94peQH8kRNWnwrak0zGJdcoeGFmI60Nnujhk/1200x1684.png",
+              "width": 1200
+            },
+            {
+              "height": 869,
+              "url": "https://a.mktgcdn.com/p-sandbox/IThkIjR94peQH8kRNWnwrak0zGJdcoeGFmI60Nnujhk/619x869.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/IThkIjR94peQH8kRNWnwrak0zGJdcoeGFmI60Nnujhk/321x450.png",
+              "width": 321
+            },
+            {
+              "height": 275,
+              "url": "https://a.mktgcdn.com/p-sandbox/IThkIjR94peQH8kRNWnwrak0zGJdcoeGFmI60Nnujhk/196x275.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/IThkIjR94peQH8kRNWnwrak0zGJdcoeGFmI60Nnujhk/1200x1684.png",
+          "width": 1200
+        }
+      }
+    ]
+  },
+  "entityType": "ce_team",
+  "labels": []
+}

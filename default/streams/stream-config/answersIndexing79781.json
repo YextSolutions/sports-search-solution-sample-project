@@ -1,0 +1,31 @@
+{
+  "$id": "answersIndexing79781",
+  "$schema": "https://schema.yext.com/config/streams/stream-config/v1",
+  "source": "knowledgeGraph",
+  "destination": "answers",
+  "fields": [
+    "uid",
+    "id",
+    "timezone",
+    "meta",
+    "savedFilters",
+    "c_dateOfBirth",
+    "c_height",
+    "c_jersey",
+    "c_linkedTeams.name",
+    "c_position",
+    "c_weight",
+    "name",
+    "yearsOfExperience"
+  ],
+  "filter": {
+    "entityTypes": [
+      "ce_athlete"
+    ]
+  },
+  "localization": {
+    "locales": [
+      "en"
+    ]
+  }
+}

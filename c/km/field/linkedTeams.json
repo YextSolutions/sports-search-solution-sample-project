@@ -1,0 +1,20 @@
+{
+  "$id": "c_linkedTeams",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Linked Teams",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "entityReference",
+      "type": {
+        "entityReferenceType": {
+          "supportedEntityTypeIds": [
+            "ce_team"
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

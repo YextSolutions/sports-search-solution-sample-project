@@ -1,0 +1,29 @@
+{
+  "$id": "video-18",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": [
+      "Social Justice Council"
+    ],
+    "c_embedURL": "https://www.youtube.com/embed/TFaCTpp6BV4",
+    "c_league": [
+      "organization-1"
+    ],
+    "c_linkedAthletes": [
+      "athlete-94"
+    ],
+    "c_youTubeURL": "https://www.youtube.com/watch?v\u003dTFaCTpp6BV4",
+    "description": "A\u0027ja Wilson will be heard. #SeeMe #MakeWayMakeChange \"Don\u0027t be silenced. Always know that you have a voice.\" - A\u0027ja Wilson",
+    "name": "Social Justice Council: A’ja Wilson",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dTFaCTpp6BV4"
+        }
+      }
+    ]
+  },
+  "entityType": "ce_video",
+  "labels": []
+}

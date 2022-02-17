@@ -1,0 +1,52 @@
+{
+  "$id": "product-2",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_details": "Product ID: 4378359Material: 85% Cotton/15% PolyesterMidweight hoodie suitable for moderate temperaturesFront pouch pocketEmbroidered graphicsChenille applique with embroidered and felt detailHood with drawstringPulloverFleece linedLong sleeveMachine wash, line dryTagless CollarOfficially licensedImportedBrand: Kur8ted",
+    "landingPageUrl": "https://www.nylibertystore.com/en/black-new-york-liberty-pullover-hoodie/p-82706342923876+z-804-3133866867?_ref\u003dp-CLP:m-GRID:i-r0c1:po-1",
+    "name": "Black New York Liberty Pullover Hoodie",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://images.footballfanatics.com/FFImage/thumb.aspx?i\u003d/productimages/_4378000/altimages/ff_4378359-2a7d0fa6ee68e45b8358alt1_full.jpg\u0026w\u003d900",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/ULxqq1CwOMlPtbUMGwVAXbpX5uGv2Qamp7vnXIeUOPI/900x900.jpg",
+              "width": 900
+            },
+            {
+              "height": 619,
+              "url": "https://a.mktgcdn.com/p-sandbox/ULxqq1CwOMlPtbUMGwVAXbpX5uGv2Qamp7vnXIeUOPI/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/ULxqq1CwOMlPtbUMGwVAXbpX5uGv2Qamp7vnXIeUOPI/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/ULxqq1CwOMlPtbUMGwVAXbpX5uGv2Qamp7vnXIeUOPI/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ULxqq1CwOMlPtbUMGwVAXbpX5uGv2Qamp7vnXIeUOPI/900x900.jpg",
+          "width": 900
+        }
+      }
+    ],
+    "price": {
+      "currencyCode": "USD",
+      "value": "99.99"
+    },
+    "richTextDescription": "Layer up in your New York Liberty pride with this pullover hoodie. Its blended fabric is soft to the touch, and it\u0027s finished with bold graphics that push your New York Liberty spirit into the spotlight. When cooler temperatures arrive, meet them head on with this hoodie.",
+    "sku": "Product ID: 4378359",
+    "targetAgeGroup": "ADULT",
+    "targetGender": "UNISEX"
+  },
+  "entityType": "product",
+  "labels": []
+}

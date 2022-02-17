@@ -1,0 +1,15 @@
+{
+  "$id": "faq-18",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "The draft lottery is comprised of the four teams that did not make the playoffs. Starting with the 2017 Draft, lottery odds are determined by taking into account the team’s two-year cumulative record.\n\n\n\nThe Lottery Team with the worst two-year cumulative record has 442 chances out of 1,000 to win the first pick, the Lottery Team with the second-worst two-year cumulative record has 276 chances out of 1,000, the Lottery Team with the third-worst two-year cumulative record has 178 chances out of 1,000, and the Lottery Team with the best two-year cumulative record having 104 chances out of 1,000 to win the first pick.  Tiebreakers are based solely on the immediately preceding season.",
+    "c_category": [
+      "Draft"
+    ],
+    "name": "How is the draft order and draft lottery determined?",
+    "question": "How is the draft order and draft lottery determined?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

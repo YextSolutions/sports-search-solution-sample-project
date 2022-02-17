@@ -1,0 +1,20 @@
+{
+  "$id": "faq-7",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "Under the new playoff format announced in January 2016:\n\n\n\n∙ The top eight teams regardless of conference qualify for the postseason ∙ The number of playoff rounds has increased from three to four ∙ Teams will be re-seeded after each postseason round. ∙ The first and second rounds are single elimination.  In the first round, the No. 5 seed hosts the No. 8 seed and the No. 6 seed hosts the No. 7 seed.  In the second round, the No. 3 seed hosts the lowest-seeded first-round winner and the No. 4 seed hosts the other first-round winner. ∙ The semifinals feature a best-of-five format, with the No. 1 overall seed playing the lowest remaining seed and the No. 2 overall seed meeting the remaining team.  The Nos. 1 and 2 seeds will host Games 1, 2 and 5, and the lower-seeded teams will host Games 3 and 4 in their respective series.  The WNBA Finals remain best-of-five and follow the same 2-2-1 format.",
+    "c_category": [
+      "General"
+    ],
+    "c_primaryCTA": {
+      "label": "Learn More",
+      "link": "http://wnba.com/news/regular-season-playoff-format-changes-2016-season/",
+      "linkType": "URL"
+    },
+    "name": "How many teams make the playoffs?",
+    "question": "How many teams make the playoffs?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

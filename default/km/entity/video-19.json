@@ -1,0 +1,26 @@
+{
+  "$id": "video-19",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": [
+      "Social Justice Council"
+    ],
+    "c_embedURL": "https://www.youtube.com/embed/GD5J_fN6bZ4",
+    "c_league": [
+      "organization-1"
+    ],
+    "c_youTubeURL": "https://www.youtube.com/watch?v\u003dGD5J_fN6bZ4",
+    "description": "Sydney Colson hopes that she can inspire others, just like her great-grandmother inspired her. #SayHerName #SeeMe #ShareBlackStories",
+    "name": "Social Justice Council: Sydney Colson (October 8, 2020)",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dGD5J_fN6bZ4"
+        }
+      }
+    ]
+  },
+  "entityType": "ce_video",
+  "labels": []
+}

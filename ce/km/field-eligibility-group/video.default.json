@@ -1,0 +1,19 @@
+{
+  "$id": "ce_video.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Video-default",
+  "entityType": "ce_video",
+  "fields": [
+    "c_category",
+    "c_defaultOnInitialSearch",
+    "c_embedURL",
+    "c_league",
+    "c_linkedAthletes",
+    "c_linkedEvents",
+    "c_linkedTeams",
+    "c_youTubeURL",
+    "description",
+    "videos"
+  ],
+  "required": []
+}

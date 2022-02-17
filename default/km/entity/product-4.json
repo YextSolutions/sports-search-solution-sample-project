@@ -1,0 +1,52 @@
+{
+  "$id": "product-4",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_details": "Product ID: 3907100Material: 80% Cotton/20% PolyesterMidweight hoodie suitable for moderate temperaturesFront pouch pocketHood without drawstringsV-neckLong sleeveScreen print graphicsMachine wash, tumble dry lowOfficially licensedImportedBrand: Fanatics Branded",
+    "landingPageUrl": "https://www.nylibertystore.com/en/womens-fanatics-branded-black-new-york-liberty-primary-logo-pullover-hoodie/p-36764441899955+z-9782-2453693883?_ref\u003dp-CLP:m-GRID:i-r1c0:po-3",
+    "name": "Women\u0027s Fanatics Branded Black New York Liberty Primary Logo Pullover Hoodie",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://images.footballfanatics.com/FFImage/thumb.aspx?i\u003d/productimages/_3907000/altimages/ff_3907100-bd810dfb17fe7561c214alt1_full.jpg\u0026w\u003d900",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/gdJHA64Ke-uiKlI_pXpHzzOc4JRIOMacuthT0-4gQZg/900x900.jpg",
+              "width": 900
+            },
+            {
+              "height": 619,
+              "url": "https://a.mktgcdn.com/p-sandbox/gdJHA64Ke-uiKlI_pXpHzzOc4JRIOMacuthT0-4gQZg/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/gdJHA64Ke-uiKlI_pXpHzzOc4JRIOMacuthT0-4gQZg/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/gdJHA64Ke-uiKlI_pXpHzzOc4JRIOMacuthT0-4gQZg/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/gdJHA64Ke-uiKlI_pXpHzzOc4JRIOMacuthT0-4gQZg/900x900.jpg",
+          "width": 900
+        }
+      }
+    ],
+    "price": {
+      "currencyCode": "USD",
+      "value": "64.99"
+    },
+    "richTextDescription": "You\u0027re an avid New York Liberty fan and love to flaunt it. Show the New York Liberty your support by grabbing this Primary Logo Pullover Hoodie from Fanatics Branded. It features bold New York Liberty graphics, so no one will be able to question where your allegiance lies every time you rock this sweet gear.",
+    "sku": "Product ID: 3907100",
+    "targetAgeGroup": "ADULT",
+    "targetGender": "FEMALE"
+  },
+  "entityType": "product",
+  "labels": []
+}

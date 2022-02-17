@@ -1,0 +1,20 @@
+{
+  "$id": "faq-23",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "Download the rule book here.",
+    "c_category": [
+      "Game"
+    ],
+    "c_primaryCTA": {
+      "label": "Click Here",
+      "link": "http://www.wnba.com/wnba-rule-book/",
+      "linkType": "URL"
+    },
+    "name": "What are the rules of the WNBA?",
+    "question": "What are the rules of the WNBA?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

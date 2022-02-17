@@ -1,0 +1,53 @@
+{
+  "$id": "product-1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_defaultOnInitialSearch": true,
+    "c_details": "Product ID: 4064953Material: 61% Cotton/39% PolyesterEmbroidered graphicsMidweight jacket suitable for cold temperaturesFull-zip closureLong sleeveMachine washOfficially licensedImportedBrand: Nike",
+    "landingPageUrl": "https://www.nylibertystore.com/en/womens-nike-black-new-york-liberty-full-zip-knit-jacket/p-26331748324936+z-9101-1434506502?_ref\u003dp-CLP:m-GRID:i-r0c0:po-0",
+    "name": "Women\u0027s Nike Black New York Liberty Full-Zip Knit Jacket",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://images.footballfanatics.com/FFImage/thumb.aspx?i\u003d/productimages/_4064000/altimages/ff_4064953-3c1044d3aa2e58fce55ealt1_full.jpg\u0026w\u003d900",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/lMPZuffcgbrRNGTlE-hAvYqkEFuHun4_MqgFQvE88bQ/900x900.jpg",
+              "width": 900
+            },
+            {
+              "height": 619,
+              "url": "https://a.mktgcdn.com/p-sandbox/lMPZuffcgbrRNGTlE-hAvYqkEFuHun4_MqgFQvE88bQ/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/lMPZuffcgbrRNGTlE-hAvYqkEFuHun4_MqgFQvE88bQ/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/lMPZuffcgbrRNGTlE-hAvYqkEFuHun4_MqgFQvE88bQ/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/lMPZuffcgbrRNGTlE-hAvYqkEFuHun4_MqgFQvE88bQ/900x900.jpg",
+          "width": 900
+        }
+      }
+    ],
+    "price": {
+      "currencyCode": "USD",
+      "value": "99.99"
+    },
+    "richTextDescription": "Show off your loyalty to the New York Liberty with this sweet Full-Zip Knit Jacket from Nike. It features bold New York Liberty graphics that will easily make you the center of attention. When you wear this cool New York Liberty gear, it\u0027ll be clear who you\u0027re rooting for with a spirited passion!",
+    "sku": "Product ID: 4064953",
+    "targetAgeGroup": "ADULT",
+    "targetGender": "FEMALE"
+  },
+  "entityType": "product",
+  "labels": []
+}

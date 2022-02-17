@@ -1,0 +1,29 @@
+{
+  "$id": "video-17",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": [
+      "Social Justice Council"
+    ],
+    "c_embedURL": "https://www.youtube.com/embed/2lH2xjTxSUg",
+    "c_league": [
+      "organization-1"
+    ],
+    "c_linkedAthletes": [
+      "athlete-111"
+    ],
+    "c_youTubeURL": "https://www.youtube.com/watch?v\u003d2lH2xjTxSUg",
+    "description": "“Athletes really do have the power to change the world.” - Layshia Clarendon The 2020 WNBA season has been about so much more. The 2020 WNBA season is dedicated to social justice.",
+    "name": "Social Justice Council: Layshia Clarendon",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003d2lH2xjTxSUg"
+        }
+      }
+    ]
+  },
+  "entityType": "ce_video",
+  "labels": []
+}

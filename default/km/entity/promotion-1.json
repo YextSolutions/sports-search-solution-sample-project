@@ -1,0 +1,40 @@
+{
+  "$id": "promotion-1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_defaultOnInitialSearch": true,
+    "c_primaryCTA": {
+      "label": "Start Your Free Trial",
+      "link": "https://leaguepass.wnba.com/packages#single_pass",
+      "linkType": "URL"
+    },
+    "description": "Don’t miss a second of the action. Start a 7-day free trial and get access to live games with WNBA League Pass.",
+    "keywords": [
+      "watch",
+      "stream",
+      "leaguepass",
+      "league pass"
+    ],
+    "name": "SIGN UP FOR WNBA LEAGUE PASS",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 1058,
+          "sourceUrl": "https://ak-static.cms.nba.com/wp-content/themes/wnba-parent/img/logos/wnba-league-pass-logo.png",
+          "thumbnails": [
+            {
+              "height": 1058,
+              "url": "https://a.mktgcdn.com/p-sandbox/YmFNI2kyfyK7FOEEMDNngOspujsnNGCHcuEPXSLXwTo/2400x1058.png",
+              "width": 2400
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/YmFNI2kyfyK7FOEEMDNngOspujsnNGCHcuEPXSLXwTo/2400x1058.png",
+          "width": 2400
+        }
+      }
+    ]
+  },
+  "entityType": "ce_promotion",
+  "labels": []
+}

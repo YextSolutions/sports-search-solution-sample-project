@@ -1,0 +1,455 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/answers-config/v1",
+  "$id": "wnba-demo",
+  "name": "wnba-demo",
+  "supportedLocales": [],
+  "countryRestrictions": [],
+  "verticals": {
+    "athletes": {
+      "baseScore": 90,
+      "directAnswers": {
+        "fieldValues": {
+          "eligibleFields": [
+            "c_dateOfBirth",
+            "c_height",
+            "c_linkedTeams.name",
+            "c_linkedTeams",
+            "c_position",
+            "c_weight",
+            "yearsOfExperience"
+          ],
+          "predictionMode": "CLASSIFIER"
+        }
+      },
+      "entityTypes": [
+        "ce_athlete"
+      ],
+      "name": "Athletes",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "c_dateOfBirth": {
+          "phraseMatch": true
+        },
+        "c_height": {
+          "phraseMatch": true
+        },
+        "c_jersey": {},
+        "c_linkedTeams.name": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "c_position": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "c_weight": {
+          "phraseMatch": true
+        },
+        "name": {
+          "semanticTextSearch": true
+        },
+        "yearsOfExperience": {
+          "phraseMatch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "faqs": {
+      "entityTypes": [
+        "faq"
+      ],
+      "name": "FAQs",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "c_category": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "keywords": {
+          "textSearch": true
+        },
+        "question": {
+          "semanticTextSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "jobs": {
+      "entityTypes": [
+        "job"
+      ],
+      "name": "Jobs",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "builtin.location": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "c_education": {
+          "phraseMatch": true,
+          "textSearch": true
+        },
+        "c_experience": {
+          "phraseMatch": true,
+          "textSearch": true
+        },
+        "c_jobSegment": {
+          "nlpFilter": true
+        },
+        "c_responsibilities": {
+          "phraseMatch": true,
+          "textSearch": true
+        },
+        "c_skills": {
+          "phraseMatch": true,
+          "textSearch": true
+        },
+        "description": {
+          "phraseMatch": true,
+          "textSearch": true
+        },
+        "employmentType": {
+          "nlpFilter": true,
+          "textSearch": true
+        },
+        "jobLocation.name": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "keywords": {
+          "phraseMatch": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "locations": {
+      "directAnswers": {
+        "fieldValues": {
+          "eligibleFields": [
+            "address.region",
+            "address.city",
+            "c_linkedTeams.name"
+          ],
+          "predictionMode": "CLASSIFIER"
+        }
+      },
+      "entityTypes": [
+        "location"
+      ],
+      "name": "Locations",
+      "searchableFields": {
+        "address.city": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "address.region": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "builtin.location": {
+          "nlpFilter": true
+        },
+        "c_linkedEvents.name": {
+          "phraseMatch": true,
+          "textSearch": true
+        },
+        "c_linkedTeams.name": {
+          "phraseMatch": true,
+          "textSearch": true
+        },
+        "keywords": {
+          "phraseMatch": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "news": {
+      "directAnswers": {
+        "fieldValues": {
+          "eligibleFields": [
+            "body"
+          ],
+          "predictionMode": "CLASSIFIER"
+        }
+      },
+      "entityTypes": [
+        "ce_news"
+      ],
+      "name": "News",
+      "searchableFields": {
+        "body": {
+          "documentSearch": true
+        },
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "c_author": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "datePosted": {
+          "nlpFilter": true,
+          "sortable": true
+        },
+        "name": {
+          "semanticTextSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "products": {
+      "entityTypes": [
+        "product"
+      ],
+      "name": "Products",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "c_details": {
+          "phraseMatch": true,
+          "textSearch": true
+        },
+        "name": {
+          "semanticTextSearch": true
+        },
+        "price.value": {
+          "facet": true,
+          "nlpFilter": true,
+          "sortable": true
+        },
+        "richTextDescription": {
+          "phraseMatch": true,
+          "textSearch": true
+        },
+        "targetAgeGroup": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "targetGender": {
+          "facet": true,
+          "nlpFilter": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "promotions": {
+      "baseScore": 99,
+      "entityTypes": [
+        "ce_promotion"
+      ],
+      "name": "Promotions",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "keywords": {
+          "phraseMatch": true
+        },
+        "name": {
+          "semanticTextSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "teams": {
+      "directAnswers": {
+        "fieldValues": {
+          "eligibleFields": [
+            "c_linkedAthletes.name",
+            "linkedLocation.name"
+          ],
+          "predictionMode": "CLASSIFIER"
+        }
+      },
+      "entityTypes": [
+        "ce_team"
+      ],
+      "name": "Teams",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "c_league.name": {},
+        "c_linkedAthletes.name": {
+          "phraseMatch": true
+        },
+        "c_linkedEvents.name": {
+          "phraseMatch": true
+        },
+        "c_linkedNews.name": {
+          "phraseMatch": true
+        },
+        "c_teamCity": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "c_teamState": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "name": {
+          "semanticTextSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "videos": {
+      "entityTypes": [
+        "ce_video"
+      ],
+      "name": "Videos",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "c_category": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "description": {
+          "phraseMatch": true,
+          "textSearch": true
+        },
+        "name": {
+          "semanticTextSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    }
+  },
+  "synonyms": {
+    "oneWay": [],
+    "synonymSet": [
+      [
+        "store",
+        "shop",
+        "products",
+        "product"
+      ],
+      [
+        "birth",
+        "born",
+        "date of birth"
+      ],
+      [
+        "stadium",
+        "arena",
+        "location"
+      ]
+    ]
+  },
+  "localizations": {},
+  "rules": [
+    {
+      "criteria": {
+        "searchTermMatchesRegex": "^$",
+        "searchTypes": "UNIVERSAL"
+      },
+      "actions": [
+        {
+          "actionType": "RETURN_PINNED_RESULT",
+          "verticals": [
+            {
+              "savedFilterId": "842400571",
+              "verticalKey": "promotions"
+            },
+            {
+              "savedFilterId": "842400571",
+              "verticalKey": "athletes"
+            },
+            {
+              "savedFilterId": "842400571",
+              "verticalKey": "faqs"
+            },
+            {
+              "savedFilterId": "842400571",
+              "verticalKey": "teams"
+            },
+            {
+              "savedFilterId": "842400571",
+              "verticalKey": "products"
+            },
+            {
+              "savedFilterId": "842400571",
+              "verticalKey": "videos"
+            }
+          ]
+        }
+      ],
+      "name": "Default on Initial Search"
+    },
+    {
+      "criteria": {
+        "searchTermMatchesRegex": "^$"
+      },
+      "actions": [
+        {
+          "actionType": "BOOST_VERTICAL_INTENT",
+          "boostValue": 100,
+          "verticals": [
+            "promotions"
+          ]
+        }
+      ],
+      "name": "Boost Promotion"
+    }
+  ],
+  "additionalSearchablePlaces": [],
+  "querySuggestions": {
+    "disablePopularQueries": false,
+    "verticalPromptsOnEmpty": false,
+    "popularQueriesBlacklistedTerms": [],
+    "universalPrompts": [
+      "Where can I buy tickets to a WNBA game near me?",
+      "How do I download WNBA League Pass?",
+      "Where can I watch the games?",
+      "Stadiums near me"
+    ],
+    "verticalPrompts": {
+      "athletes": [
+        "[[name]]"
+      ],
+      "faqs": [
+        "[[name]]"
+      ],
+      "jobs": [
+        "[[name]]"
+      ],
+      "locations": [
+        "Locations near [[address.city]]",
+        "Locations near [[address.region]]"
+      ],
+      "teams": [
+        "[[name]]"
+      ],
+      "videos": [
+        "[[name]]"
+      ]
+    }
+  }
+}

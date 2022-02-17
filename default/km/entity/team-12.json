@@ -1,0 +1,68 @@
+{
+  "$id": "team-12",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_conference": "Western",
+    "c_defaultOnInitialSearch": true,
+    "c_league": [
+      "organization-1"
+    ],
+    "c_linkedAthletes": [
+      "athlete-131",
+      "athlete-132",
+      "athlete-133",
+      "athlete-134",
+      "athlete-135",
+      "athlete-136",
+      "athlete-137",
+      "athlete-138",
+      "athlete-139",
+      "athlete-140",
+      "athlete-141",
+      "athlete-142"
+    ],
+    "c_rosterURL": "http://storm.wnba.com/roster/",
+    "c_scheduleURL": "http://storm.wnba.com/schedule/#?season\u003d2022\u0026seasontype\u003d02",
+    "c_teamAbbreviation": "AZ",
+    "c_teamCity": "Seattle",
+    "c_teamState": "WA",
+    "landingPageUrl": "http://storm.wnba.com/",
+    "linkedLocation": "location-12",
+    "name": "Seattle Storm",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 1086,
+          "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Seattle_Storm_%282021%29_logo.svg/1200px-Seattle_Storm_%282021%29_logo.svg.png",
+          "thumbnails": [
+            {
+              "height": 1086,
+              "url": "https://a.mktgcdn.com/p-sandbox/wN5bnN4-bA1lk0ZZ1NVrlIzIKtOACITp-_rf2YazJHI/1200x1086.png",
+              "width": 1200
+            },
+            {
+              "height": 560,
+              "url": "https://a.mktgcdn.com/p-sandbox/wN5bnN4-bA1lk0ZZ1NVrlIzIKtOACITp-_rf2YazJHI/619x560.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/wN5bnN4-bA1lk0ZZ1NVrlIzIKtOACITp-_rf2YazJHI/497x450.png",
+              "width": 497
+            },
+            {
+              "height": 177,
+              "url": "https://a.mktgcdn.com/p-sandbox/wN5bnN4-bA1lk0ZZ1NVrlIzIKtOACITp-_rf2YazJHI/196x177.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/wN5bnN4-bA1lk0ZZ1NVrlIzIKtOACITp-_rf2YazJHI/1200x1086.png",
+          "width": 1200
+        }
+      }
+    ]
+  },
+  "entityType": "ce_team",
+  "labels": []
+}

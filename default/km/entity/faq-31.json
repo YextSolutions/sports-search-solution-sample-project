@@ -1,0 +1,15 @@
+{
+  "$id": "faq-31",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "WNBA League Pass provides the optimal video quality dependent on the current download bandwidth of your Internet connection, up to a max of 3MB. The video player uses adaptive bandwidth technology to periodically check your Internet connection and deliver the optimal video quality experience for that connection. If the available bandwidth changes as you watch a game, the picture quality will fluctuate.",
+    "c_category": [
+      "LeaguePass"
+    ],
+    "name": "What video quality are the games available in?",
+    "question": "What video quality are the games available in?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

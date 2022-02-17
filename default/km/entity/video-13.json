@@ -1,0 +1,27 @@
+{
+  "$id": "video-13",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": [
+      "WNBA All-Star 2021"
+    ],
+    "c_defaultOnInitialSearch": true,
+    "c_embedURL": "https://www.youtube.com/embed/zvrmRe3R1ws",
+    "c_league": [
+      "organization-1"
+    ],
+    "c_youTubeURL": "https://www.youtube.com/watch?v\u003dzvrmRe3R1ws",
+    "description": "Get hyped for WNBA All-Star 2021 by seeing which players are on Team WNBA.",
+    "name": "Team WNBA Highlights For AT\u0026T WNBA All-Star 2021",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dzvrmRe3R1ws"
+        }
+      }
+    ]
+  },
+  "entityType": "ce_video",
+  "labels": []
+}

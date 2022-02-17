@@ -1,0 +1,15 @@
+{
+  "$id": "ce_news.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "News-default",
+  "entityType": "ce_news",
+  "fields": [
+    "body",
+    "c_author",
+    "c_defaultOnInitialSearch",
+    "datePosted",
+    "landingPageUrl",
+    "photoGallery"
+  ],
+  "required": []
+}

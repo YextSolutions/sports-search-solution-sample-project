@@ -1,0 +1,18 @@
+{
+  "$id": "c_jobSegment",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Job Segment",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "string",
+      "type": {
+        "stringType": {
+          "stereotype": "SIMPLE"
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

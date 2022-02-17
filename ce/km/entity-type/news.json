@@ -1,0 +1,7 @@
+{
+  "$id": "ce_news",
+  "$schema": "https://schema.yext.com/config/km/entity-type/v1",
+  "description": "",
+  "displayName": "News",
+  "pluralDisplayName": ""
+}

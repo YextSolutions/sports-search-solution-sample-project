@@ -1,0 +1,20 @@
+{
+  "$id": "faq-12",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "Diana Taurasi is the WNBA’s all-time leading scorer over the course of her illustrious career. Taurasi passed Tina Thompson (7,488 career points) in 2017.\n\n\n\nClick below to view the WNBA’s all-time leading scorers.",
+    "c_category": [
+      "Players"
+    ],
+    "c_primaryCTA": {
+      "label": "Click Here",
+      "link": "http://www.wnba.com/stats/alltime-leaders/#?stattype\u003dpoints\u0026stype\u003d02\u0026sort\u003dpts\u0026permode\u003dtot\u0026dir\u003d1",
+      "linkType": "URL"
+    },
+    "name": "Who’s the all-time leading scorer in WNBA history?",
+    "question": "Who’s the all-time leading scorer in WNBA history?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

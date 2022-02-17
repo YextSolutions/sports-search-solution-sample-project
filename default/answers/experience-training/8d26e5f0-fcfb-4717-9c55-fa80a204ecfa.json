@@ -1,0 +1,31 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "8d26e5f0-fcfb-4717-9c55-fa80a204ecfa",
+  "experienceKey": "wnba-demo",
+  "locale": "en",
+  "searchTerm": "ezi magbegor team direct answer",
+  "triggerType": "query",
+  "type": "nlpFilter",
+  "details": {
+    "enforcedPrediction": {},
+    "rejectedPrediction": {
+      "athletes": [],
+      "faqs": [],
+      "jobs": [],
+      "locations": [],
+      "news": [],
+      "products": [],
+      "promotions": [],
+      "teams": [
+        {
+          "filter": {
+            "builtin.entityType": {
+              "$eq": "\"Team\""
+            }
+          }
+        }
+      ],
+      "videos": []
+    }
+  }
+}

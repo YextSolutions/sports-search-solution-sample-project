@@ -1,0 +1,39 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "552105c1-c5ca-4029-b571-144387e831a7",
+  "experienceKey": "wnba-demo",
+  "locale": "en",
+  "searchTerm": "where can i watch chicago sky highlights",
+  "triggerType": "query",
+  "type": "nlpFilter",
+  "details": {
+    "enforcedPrediction": {
+      "athletes": [
+        {
+          "filter": {
+            "c_linkedTeams.name": {
+              "$eq": "\"Chicago Sky\""
+            }
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "filter": {
+            "c_category": {
+              "$eq": "\"Watch\""
+            }
+          }
+        }
+      ],
+      "jobs": [],
+      "locations": [],
+      "news": [],
+      "products": [],
+      "promotions": [],
+      "teams": [],
+      "videos": []
+    },
+    "rejectedPrediction": {}
+  }
+}

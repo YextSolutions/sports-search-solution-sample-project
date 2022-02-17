@@ -1,0 +1,30 @@
+{
+  "$id": "video-12",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": [
+      "2021 WNBA Game Recaps"
+    ],
+    "c_embedURL": "https://www.youtube.com/embed/iUEl2Oj0vGc",
+    "c_league": [
+      "organization-1"
+    ],
+    "c_linkedTeams": [
+      "team-1",
+      "team-3"
+    ],
+    "c_youTubeURL": "https://www.youtube.com/watch?v\u003diUEl2Oj0vGc",
+    "description": "The Connecticut Sun pick up their 14th straight victory, setting a WNBA record for most consecutive wins to end a season after beating the Atlanta Dream 84-64.",
+    "name": "ATLANTA DREAM vs. CONNECTICUT SUN | FULL GAME HIGHLIGHTS | September 19, 2021",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003diUEl2Oj0vGc"
+        }
+      }
+    ]
+  },
+  "entityType": "ce_video",
+  "labels": []
+}

@@ -1,0 +1,30 @@
+{
+  "$id": "video-10",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": [
+      "2021 WNBA Game Recaps"
+    ],
+    "c_embedURL": "https://www.youtube.com/embed/GrNFGMT_rfI",
+    "c_league": [
+      "organization-1"
+    ],
+    "c_linkedTeams": [
+      "team-9",
+      "team-7"
+    ],
+    "c_youTubeURL": "https://www.youtube.com/watch?v\u003dGrNFGMT_rfI",
+    "description": "The Dallas Wings win a close one over the Sparks to spoil their Playoff hopes and gain momentum heading into the postseason.",
+    "name": "LOS ANGELES SPARKS vs. DALLAS WINGS | FULL GAME HIGHLIGHTS | September 19, 2021",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dGrNFGMT_rfI"
+        }
+      }
+    ]
+  },
+  "entityType": "ce_video",
+  "labels": []
+}

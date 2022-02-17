@@ -1,0 +1,30 @@
+{
+  "$id": "video-5",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": [
+      "2021 WNBA Top Performers"
+    ],
+    "c_defaultOnInitialSearch": true,
+    "c_embedURL": "https://www.youtube.com/embed/sAlxI0HfaeY",
+    "c_league": [
+      "organization-1"
+    ],
+    "c_linkedTeams": [
+      "team-2"
+    ],
+    "c_youTubeURL": "https://www.youtube.com/watch?v\u003dsAlxI0HfaeY",
+    "description": "Diamond DeShields has her best game of the year to end the season as she tied her career-high in points with 30 to go with 7 rebounds, 6 assists and 2 steals in the Sky\u0027s big win.",
+    "name": "Diamond DeShields Erupts For Career-High Tying 30 Points In Sky Victory (September 19, 2021)",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dsAlxI0HfaeY"
+        }
+      }
+    ]
+  },
+  "entityType": "ce_video",
+  "labels": []
+}

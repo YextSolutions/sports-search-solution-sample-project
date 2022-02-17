@@ -1,0 +1,26 @@
+{
+  "$id": "video-2",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": [
+      "2021 WNBA Postseason"
+    ],
+    "c_embedURL": "https://www.youtube.com/embed/JNjgzcKRyAs",
+    "c_league": [
+      "organization-1"
+    ],
+    "c_youTubeURL": "https://www.youtube.com/watch?v\u003dJNjgzcKRyAs",
+    "description": "Watch the Top 10 Plays from the 2021 Postseason.",
+    "name": "The Top 10 Plays: 2021 Postseason",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dJNjgzcKRyAs"
+        }
+      }
+    ]
+  },
+  "entityType": "ce_video",
+  "labels": []
+}

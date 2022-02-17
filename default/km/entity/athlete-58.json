@@ -1,0 +1,77 @@
+{
+  "$id": "athlete-58",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_dateOfBirth": "March 18, 1998",
+    "c_height": "6-4 ft",
+    "c_jersey": "24",
+    "c_linkedTeams": [
+      "team-5"
+    ],
+    "c_position": "Forward",
+    "c_teamLogo": [
+      {
+        "height": 1465,
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/New_York_Liberty_logo.svg/1200px-New_York_Liberty_logo.svg.png",
+        "thumbnails": [
+          {
+            "height": 1465,
+            "url": "https://a.mktgcdn.com/p-sandbox/MSGCvHrX-T9KxSB7RzwZHxfUnMnNDYXM-CuV085CCo4/1200x1465.png",
+            "width": 1200
+          },
+          {
+            "height": 756,
+            "url": "https://a.mktgcdn.com/p-sandbox/MSGCvHrX-T9KxSB7RzwZHxfUnMnNDYXM-CuV085CCo4/619x756.png",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p-sandbox/MSGCvHrX-T9KxSB7RzwZHxfUnMnNDYXM-CuV085CCo4/369x450.png",
+            "width": 369
+          },
+          {
+            "height": 239,
+            "url": "https://a.mktgcdn.com/p-sandbox/MSGCvHrX-T9KxSB7RzwZHxfUnMnNDYXM-CuV085CCo4/196x239.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/MSGCvHrX-T9KxSB7RzwZHxfUnMnNDYXM-CuV085CCo4/1200x1465.png",
+        "width": 1200
+      }
+    ],
+    "c_weight": "200 lbs",
+    "landingPageUrl": "https://www.wnba.com/player/kylee-shook/",
+    "name": "Kylee Shook",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 500,
+          "sourceUrl": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/wnba/1630131.png",
+          "thumbnails": [
+            {
+              "height": 500,
+              "url": "https://a.mktgcdn.com/p-sandbox/dDF6RzJlCfx6XiKTY6W8ojMcHZX3uCoVoKxftxJ19SQ/500x500.png",
+              "width": 500
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/dDF6RzJlCfx6XiKTY6W8ojMcHZX3uCoVoKxftxJ19SQ/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/dDF6RzJlCfx6XiKTY6W8ojMcHZX3uCoVoKxftxJ19SQ/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/dDF6RzJlCfx6XiKTY6W8ojMcHZX3uCoVoKxftxJ19SQ/500x500.png",
+          "width": 500
+        }
+      }
+    ],
+    "yearsOfExperience": 1
+  },
+  "entityType": "ce_athlete",
+  "labels": []
+}

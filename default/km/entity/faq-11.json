@@ -1,0 +1,15 @@
+{
+  "$id": "faq-11",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "Sheryl  Swoopes, Lisa Leslie, and Lauren Jackson are all tied for the most WNBA MVP awards with three. Cynthia Cooper is the only player in WNBA history to win back-to-back WNBA MVP awards (1997, 1998.)\n\n\n\nCandace Parker is the only WNBA player to win WNBA Rookie of the Year and WNBA MVP in the same season.",
+    "c_category": [
+      "Players"
+    ],
+    "name": "Which WNBA players have won the most MVP awards?",
+    "question": "Which WNBA players have won the most MVP awards?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "faq-32",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "You may need to enable cookies in your Safari browser. Follow these instructions to enable cookies:\n\n\n\n∙ Click the Safari menu in the top right. It resembles a small gear icon. Or, in newer versions of Safari, click the \"Safari\" dropdown in the top left of your screen. ∙ Select \"Preferences\" ∙ Click the Privacy tab ∙ In the \"Block Cookies\" section, select \"Never\"",
+    "c_category": [
+      "LeaguePass"
+    ],
+    "name": "I am having issues accessing WNBA League Pass in Safari on a Mac.",
+    "question": "I am having issues accessing WNBA League Pass in Safari on a Mac."
+  },
+  "entityType": "faq",
+  "labels": []
+}

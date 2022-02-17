@@ -1,0 +1,77 @@
+{
+  "$id": "athlete-135",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_dateOfBirth": "October 5, 1993",
+    "c_height": "5-10 ft",
+    "c_jersey": "24",
+    "c_linkedTeams": [
+      "team-12"
+    ],
+    "c_position": "Guard",
+    "c_teamLogo": [
+      {
+        "height": 1086,
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Seattle_Storm_%282021%29_logo.svg/1200px-Seattle_Storm_%282021%29_logo.svg.png",
+        "thumbnails": [
+          {
+            "height": 1086,
+            "url": "https://a.mktgcdn.com/p-sandbox/wN5bnN4-bA1lk0ZZ1NVrlIzIKtOACITp-_rf2YazJHI/1200x1086.png",
+            "width": 1200
+          },
+          {
+            "height": 560,
+            "url": "https://a.mktgcdn.com/p-sandbox/wN5bnN4-bA1lk0ZZ1NVrlIzIKtOACITp-_rf2YazJHI/619x560.png",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p-sandbox/wN5bnN4-bA1lk0ZZ1NVrlIzIKtOACITp-_rf2YazJHI/497x450.png",
+            "width": 497
+          },
+          {
+            "height": 177,
+            "url": "https://a.mktgcdn.com/p-sandbox/wN5bnN4-bA1lk0ZZ1NVrlIzIKtOACITp-_rf2YazJHI/196x177.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/wN5bnN4-bA1lk0ZZ1NVrlIzIKtOACITp-_rf2YazJHI/1200x1086.png",
+        "width": 1200
+      }
+    ],
+    "c_weight": "148 lbs",
+    "landingPageUrl": "https://www.wnba.com/player/jewell-loyd/",
+    "name": "Jewell Loyd",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 500,
+          "sourceUrl": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/wnba/204319.png",
+          "thumbnails": [
+            {
+              "height": 500,
+              "url": "https://a.mktgcdn.com/p-sandbox/SW4NOhqXmYzUZeF_xRZ6D1KU1WfUYPgpepvFC1QWGfw/500x500.png",
+              "width": 500
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/SW4NOhqXmYzUZeF_xRZ6D1KU1WfUYPgpepvFC1QWGfw/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/SW4NOhqXmYzUZeF_xRZ6D1KU1WfUYPgpepvFC1QWGfw/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/SW4NOhqXmYzUZeF_xRZ6D1KU1WfUYPgpepvFC1QWGfw/500x500.png",
+          "width": 500
+        }
+      }
+    ],
+    "yearsOfExperience": 6
+  },
+  "entityType": "ce_athlete",
+  "labels": []
+}

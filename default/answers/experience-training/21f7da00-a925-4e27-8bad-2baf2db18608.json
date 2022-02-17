@@ -1,0 +1,73 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "21f7da00-a925-4e27-8bad-2baf2db18608",
+  "experienceKey": "wnba-demo",
+  "locale": "en",
+  "searchTerm": "guards on the liberty",
+  "triggerType": "query",
+  "type": "nlpFilter",
+  "details": {
+    "enforcedPrediction": {},
+    "rejectedPrediction": {
+      "athletes": [],
+      "faqs": [],
+      "jobs": [
+        {
+          "filter": {
+            "builtin.location": {
+              "$eq": "\"P-place.2498486414267820\""
+            }
+          },
+          "placeDetails": {
+            "boundingBox": {
+              "maxLat": 40.906521166,
+              "maxLng": -74.914245202,
+              "minLat": 40.832713442,
+              "minLng": -75.00240017
+            },
+            "center": {
+              "lat": 40.8668,
+              "lng": -74.933
+            },
+            "displayValue": "Liberty",
+            "featureType": [
+              "place"
+            ],
+            "placeName": "Liberty, New Jersey, United States"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "filter": {
+            "builtin.location": {
+              "$eq": "\"P-place.2498486414267820\""
+            }
+          },
+          "placeDetails": {
+            "boundingBox": {
+              "maxLat": 40.906521166,
+              "maxLng": -74.914245202,
+              "minLat": 40.832713442,
+              "minLng": -75.00240017
+            },
+            "center": {
+              "lat": 40.8668,
+              "lng": -74.933
+            },
+            "displayValue": "Liberty",
+            "featureType": [
+              "place"
+            ],
+            "placeName": "Liberty, New Jersey, United States"
+          }
+        }
+      ],
+      "news": [],
+      "products": [],
+      "promotions": [],
+      "teams": [],
+      "videos": []
+    }
+  }
+}

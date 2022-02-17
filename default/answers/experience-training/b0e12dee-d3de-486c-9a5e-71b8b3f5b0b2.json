@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "b0e12dee-d3de-486c-9a5e-71b8b3f5b0b2",
+  "experienceKey": "wnba-demo",
+  "locale": "en",
+  "searchTerm": "where can i watch the next wnba game",
+  "triggerType": "query",
+  "type": "featuredSnippet",
+  "details": {
+    "predictionType": "SPAN_EXTRACTION",
+    "rejectedPrediction": {
+      "length": 14,
+      "offset": 127
+    },
+    "resultText": "games in Phoenix, the 2021 WNBA Finals shifted to Chicago for a pivotal Game 3 on Friday night. In front of a sellout crowd at Wintrust Arena, the Sky dominated the Mercury on both ends of the court as they led by 22 at the half and finished with a Finals record"
+  }
+}

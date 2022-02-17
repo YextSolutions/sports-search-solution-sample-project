@@ -1,0 +1,77 @@
+{
+  "$id": "athlete-23",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_dateOfBirth": "February 1, 1996",
+    "c_height": "6-6 ft",
+    "c_jersey": "30",
+    "c_linkedTeams": [
+      "team-2"
+    ],
+    "c_position": "Forward-Center",
+    "c_teamLogo": [
+      {
+        "height": 1378,
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Chicago_Sky_logo.svg/1200px-Chicago_Sky_logo.svg.png",
+        "thumbnails": [
+          {
+            "height": 1378,
+            "url": "https://a.mktgcdn.com/p-sandbox/hghj36CVPjfYHOC7tgASZsdx17YL7edx_mQZdaAyTtM/1200x1378.png",
+            "width": 1200
+          },
+          {
+            "height": 711,
+            "url": "https://a.mktgcdn.com/p-sandbox/hghj36CVPjfYHOC7tgASZsdx17YL7edx_mQZdaAyTtM/619x711.png",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p-sandbox/hghj36CVPjfYHOC7tgASZsdx17YL7edx_mQZdaAyTtM/392x450.png",
+            "width": 392
+          },
+          {
+            "height": 225,
+            "url": "https://a.mktgcdn.com/p-sandbox/hghj36CVPjfYHOC7tgASZsdx17YL7edx_mQZdaAyTtM/196x225.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/hghj36CVPjfYHOC7tgASZsdx17YL7edx_mQZdaAyTtM/1200x1378.png",
+        "width": 1200
+      }
+    ],
+    "c_weight": "180 lbs",
+    "landingPageUrl": "https://www.wnba.com/player/azura-stevens/",
+    "name": "Azurá Stevens",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 500,
+          "sourceUrl": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/wnba/1628922.png",
+          "thumbnails": [
+            {
+              "height": 500,
+              "url": "https://a.mktgcdn.com/p-sandbox/13k_ti5o-4dG3Uc08lHR_n4tFxnCIiXPhmZihPHwj9s/500x500.png",
+              "width": 500
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/13k_ti5o-4dG3Uc08lHR_n4tFxnCIiXPhmZihPHwj9s/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/13k_ti5o-4dG3Uc08lHR_n4tFxnCIiXPhmZihPHwj9s/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/13k_ti5o-4dG3Uc08lHR_n4tFxnCIiXPhmZihPHwj9s/500x500.png",
+          "width": 500
+        }
+      }
+    ],
+    "yearsOfExperience": 3
+  },
+  "entityType": "ce_athlete",
+  "labels": []
+}

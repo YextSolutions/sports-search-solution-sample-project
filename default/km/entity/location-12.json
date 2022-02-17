@@ -1,0 +1,56 @@
+{
+  "$id": "location-12",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Seattle",
+      "countryCode": "US",
+      "line1": "334 1st Ave N",
+      "postalCode": "98109",
+      "region": "WA"
+    },
+    "c_league": [
+      "organization-1"
+    ],
+    "c_linkedTeams": [
+      "team-12"
+    ],
+    "name": "Climate Pledge Arena",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 1014,
+          "sourceUrl": "https://teamster.org/wp-content/uploads/2021/10/climatepledgearean.jpg",
+          "thumbnails": [
+            {
+              "height": 1014,
+              "url": "https://a.mktgcdn.com/p-sandbox/uPJdwZNA8l-GmhOYQnsZP63dAOLDmKDNhRgk479okOo/1248x1014.jpg",
+              "width": 1248
+            },
+            {
+              "height": 503,
+              "url": "https://a.mktgcdn.com/p-sandbox/uPJdwZNA8l-GmhOYQnsZP63dAOLDmKDNhRgk479okOo/619x503.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/uPJdwZNA8l-GmhOYQnsZP63dAOLDmKDNhRgk479okOo/554x450.jpg",
+              "width": 554
+            },
+            {
+              "height": 159,
+              "url": "https://a.mktgcdn.com/p-sandbox/uPJdwZNA8l-GmhOYQnsZP63dAOLDmKDNhRgk479okOo/196x159.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/uPJdwZNA8l-GmhOYQnsZP63dAOLDmKDNhRgk479okOo/1248x1014.jpg",
+          "width": 1248
+        }
+      }
+    ],
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

@@ -1,0 +1,77 @@
+{
+  "$id": "athlete-42",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_dateOfBirth": "September 28, 1996",
+    "c_height": "6-7 ft",
+    "c_jersey": "15",
+    "c_linkedTeams": [
+      "team-4"
+    ],
+    "c_position": "Center",
+    "c_teamLogo": [
+      {
+        "height": 1139,
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Indiana_Fever_logo.svg/1200px-Indiana_Fever_logo.svg.png",
+        "thumbnails": [
+          {
+            "height": 1139,
+            "url": "https://a.mktgcdn.com/p-sandbox/9GumRDYe7f-HIiY4NU-ba2UKJqwyGam-Xo4v6UPlKRY/1200x1139.png",
+            "width": 1200
+          },
+          {
+            "height": 588,
+            "url": "https://a.mktgcdn.com/p-sandbox/9GumRDYe7f-HIiY4NU-ba2UKJqwyGam-Xo4v6UPlKRY/619x588.png",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p-sandbox/9GumRDYe7f-HIiY4NU-ba2UKJqwyGam-Xo4v6UPlKRY/474x450.png",
+            "width": 474
+          },
+          {
+            "height": 186,
+            "url": "https://a.mktgcdn.com/p-sandbox/9GumRDYe7f-HIiY4NU-ba2UKJqwyGam-Xo4v6UPlKRY/196x186.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/9GumRDYe7f-HIiY4NU-ba2UKJqwyGam-Xo4v6UPlKRY/1200x1139.png",
+        "width": 1200
+      }
+    ],
+    "c_weight": "239 lbs",
+    "landingPageUrl": "https://www.wnba.com/player/teaira-mccowan/",
+    "name": "Teaira McCowan",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 500,
+          "sourceUrl": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/wnba/1629479.png",
+          "thumbnails": [
+            {
+              "height": 500,
+              "url": "https://a.mktgcdn.com/p-sandbox/iC75-Q6N_HTDWYGGVJlibp_255d7lf6TVBCOvrMlx3k/500x500.png",
+              "width": 500
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/iC75-Q6N_HTDWYGGVJlibp_255d7lf6TVBCOvrMlx3k/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/iC75-Q6N_HTDWYGGVJlibp_255d7lf6TVBCOvrMlx3k/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/iC75-Q6N_HTDWYGGVJlibp_255d7lf6TVBCOvrMlx3k/500x500.png",
+          "width": 500
+        }
+      }
+    ],
+    "yearsOfExperience": 2
+  },
+  "entityType": "ce_athlete",
+  "labels": []
+}

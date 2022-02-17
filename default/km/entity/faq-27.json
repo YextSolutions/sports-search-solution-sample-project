@@ -1,0 +1,15 @@
+{
+  "$id": "faq-27",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "Fans will be able to purchase WNBA League Pass beginning Saturday, May 1st.",
+    "c_category": [
+      "LeaguePass"
+    ],
+    "name": "When can I purchase WNBA League Pass?",
+    "question": "When can I purchase WNBA League Pass?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

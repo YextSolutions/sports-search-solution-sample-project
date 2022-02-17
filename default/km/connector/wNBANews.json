@@ -1,0 +1,162 @@
+{
+  "$id": "wNBANews",
+  "$schema": "https://schema.yext.com/config/km/connector/v3",
+  "displayName": "WNBA News",
+  "entityType": "ce_news",
+  "source": {
+    "sourceConfig": {
+      "crawlerConfig": {
+        "crawler": "news",
+        "urlPatterns": [
+          "https://www.wnba.com/news/*"
+        ]
+      }
+    },
+    "selectors": [
+      {
+        "type": "PAGE_ID",
+        "header": "Page ID"
+      },
+      {
+        "type": "PAGE_URL",
+        "header": "Page URL"
+      },
+      {
+        "type": "PAGE_TITLE",
+        "header": "Page Title"
+      },
+      {
+        "type": "CSS",
+        "header": "Name",
+        "path": "h1.article__header-title",
+        "mode": "ALL_TEXT"
+      },
+      {
+        "type": "CSS",
+        "header": "Author",
+        "path": "span.article__header-author",
+        "mode": "ALL_TEXT"
+      },
+      {
+        "type": "CSS",
+        "header": "Date Posted",
+        "path": "span.article__header-date",
+        "mode": "ALL_TEXT"
+      },
+      {
+        "type": "CLEANED_BODY",
+        "header": "Body"
+      },
+      {
+        "type": "CSS",
+        "header": "Photo",
+        "path": "img.row article__image",
+        "mode": "URL"
+      }
+    ]
+  },
+  "transforms": [
+    {
+      "filterRows": {
+        "action": "REMOVE",
+        "combinator": "AND",
+        "rules": [
+          {
+            "columnHeader": "Name",
+            "conditional": "IS_BLANK"
+          }
+        ]
+      }
+    },
+    {
+      "findAndReplace": {
+        "inputHeaders": {
+          "headers": [
+            "Date Posted"
+          ]
+        },
+        "valueToFind": {
+          "plainText": {
+            "value": "\"",
+            "ignoreCase": false
+          }
+        },
+        "replacement": ""
+      }
+    },
+    {
+      "findAndReplace": {
+        "inputHeaders": {
+          "headers": [
+            "Date Posted"
+          ]
+        },
+        "valueToFind": {
+          "plainText": {
+            "value": "October ",
+            "ignoreCase": false
+          }
+        },
+        "replacement": "10/"
+      }
+    },
+    {
+      "findAndReplace": {
+        "inputHeaders": {
+          "headers": [
+            "Date Posted"
+          ]
+        },
+        "valueToFind": {
+          "plainText": {
+            "value": ", 20",
+            "ignoreCase": false
+          }
+        },
+        "replacement": "/"
+      }
+    },
+    {
+      "formatDates": {
+        "inputHeaders": {
+          "headers": [
+            "Date Posted"
+          ]
+        },
+        "inputFormat": "M/d/yy"
+      }
+    }
+  ],
+  "mappings": [
+    {
+      "field": "entityId",
+      "header": "Page ID",
+      "subfieldPath": []
+    },
+    {
+      "field": "landingPageUrl",
+      "header": "Page URL",
+      "subfieldPath": []
+    },
+    {
+      "field": "name",
+      "header": "Name",
+      "subfieldPath": []
+    },
+    {
+      "field": "c_author",
+      "header": "Author",
+      "subfieldPath": []
+    },
+    {
+      "field": "datePosted",
+      "header": "Date Posted",
+      "subfieldPath": []
+    },
+    {
+      "field": "body",
+      "header": "Body",
+      "subfieldPath": []
+    }
+  ]
+}

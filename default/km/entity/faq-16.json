@@ -1,0 +1,16 @@
+{
+  "$id": "faq-16",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "The WNBA Draft is held annually and allows WNBA teams to select from a pool of up-and-coming talented collegiate basketball players, as well as others playing in other leagues across the world. The 2020 Draft was held on April 17. Sabrina Ionescu, out of Oregon, was the No. 1 overall pick to the Las Vegas Aces. The 2021 Draft will be held on April 15.",
+    "c_category": [
+      "Draft",
+      "Events"
+    ],
+    "name": "When is the WNBA Draft?",
+    "question": "When is the WNBA Draft?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

@@ -1,0 +1,77 @@
+{
+  "$id": "athlete-82",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_dateOfBirth": "March 2, 1997",
+    "c_height": "5-8 ft",
+    "c_jersey": "24",
+    "c_linkedTeams": [
+      "team-7"
+    ],
+    "c_position": "Guard",
+    "c_teamLogo": [
+      {
+        "height": 764,
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Dallas_Wings_logo.svg/1200px-Dallas_Wings_logo.svg.png",
+        "thumbnails": [
+          {
+            "height": 764,
+            "url": "https://a.mktgcdn.com/p-sandbox/LuldtAgVE_BIS-vw_r1myde9TwHtF2hI1pM-O2KOYTI/1200x764.png",
+            "width": 1200
+          },
+          {
+            "height": 394,
+            "url": "https://a.mktgcdn.com/p-sandbox/LuldtAgVE_BIS-vw_r1myde9TwHtF2hI1pM-O2KOYTI/619x394.png",
+            "width": 619
+          },
+          {
+            "height": 382,
+            "url": "https://a.mktgcdn.com/p-sandbox/LuldtAgVE_BIS-vw_r1myde9TwHtF2hI1pM-O2KOYTI/600x382.png",
+            "width": 600
+          },
+          {
+            "height": 125,
+            "url": "https://a.mktgcdn.com/p-sandbox/LuldtAgVE_BIS-vw_r1myde9TwHtF2hI1pM-O2KOYTI/196x125.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/LuldtAgVE_BIS-vw_r1myde9TwHtF2hI1pM-O2KOYTI/1200x764.png",
+        "width": 1200
+      }
+    ],
+    "c_weight": "165 lbs",
+    "landingPageUrl": "https://www.wnba.com/player/arike-ogunbowale/",
+    "name": "Arike Ogunbowale",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 500,
+          "sourceUrl": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/wnba/1629481.png",
+          "thumbnails": [
+            {
+              "height": 500,
+              "url": "https://a.mktgcdn.com/p-sandbox/cD0bjh6vMlQ0B9tvjqWOXw3Q5E2su0yvycvPkInQOOU/500x500.png",
+              "width": 500
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/cD0bjh6vMlQ0B9tvjqWOXw3Q5E2su0yvycvPkInQOOU/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/cD0bjh6vMlQ0B9tvjqWOXw3Q5E2su0yvycvPkInQOOU/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/cD0bjh6vMlQ0B9tvjqWOXw3Q5E2su0yvycvPkInQOOU/500x500.png",
+          "width": 500
+        }
+      }
+    ],
+    "yearsOfExperience": 2
+  },
+  "entityType": "ce_athlete",
+  "labels": []
+}

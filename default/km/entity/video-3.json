@@ -1,0 +1,29 @@
+{
+  "$id": "video-3",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": [
+      "2021 WNBA Postseason"
+    ],
+    "c_embedURL": "https://www.youtube.com/embed/CGwVON9yydI",
+    "c_league": [
+      "organization-1"
+    ],
+    "c_linkedTeams": [
+      "team-2"
+    ],
+    "c_youTubeURL": "https://www.youtube.com/watch?v\u003dCGwVON9yydI",
+    "description": "Watch the full on-court ceremony as Candace Parker and the Chicago Sky are handed the WNBA championship trophy, and Kahleah Copper is named the WNBA Finals MVP.",
+    "name": "Chicago Sky WNBA Championship Ceremony",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dCGwVON9yydI"
+        }
+      }
+    ]
+  },
+  "entityType": "ce_video",
+  "labels": []
+}

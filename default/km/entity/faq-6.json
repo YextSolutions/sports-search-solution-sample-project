@@ -1,0 +1,15 @@
+{
+  "$id": "faq-6",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "The 2021 regular season will tip off on May 14. The regular season, currently scheduled to conclude on Sunday, Sept. 19 and be followed by a traditional playoffs and Finals format, will include a break from July 15 through Aug. 11.",
+    "c_category": [
+      "Schedule"
+    ],
+    "name": "When does the 2021 WNBA season begin and end?",
+    "question": "When does the 2021 WNBA season begin and end?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

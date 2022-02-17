@@ -1,0 +1,15 @@
+{
+  "$id": "faq-14",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "Yes. In 2019, Erica Wheeler became the first undrafted player to earn WNBA All-Star MVP. Wheeler finished with 25 points and an All-Star Game record-tying seven 3-pointers, including a trey with 22 seconds to go that sealed Team Wilson’s 129-126 win over Team Delle Donne.",
+    "c_category": [
+      "Events"
+    ],
+    "name": "Is there a WNBA All-Star Game?",
+    "question": "Is there a WNBA All-Star Game?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

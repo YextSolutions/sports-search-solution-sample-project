@@ -1,0 +1,65 @@
+{
+  "$id": "job-6604",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "applicationUrl": "https://career4.successfactors.com/careers?company\u003dNBA",
+    "c_education": "* BA or relevant work experience is preferred",
+    "c_jobSegment": [
+      "Sales Consultant",
+      "Project Manager",
+      "Event Marketing",
+      "Sales",
+      "Technology",
+      "Marketing"
+    ],
+    "c_responsibilities": "* Shape and drive event programming that supports the WNBA\u0027s strategic priorities, engaging with the WNBA leadership team to define project scope and drive implementation of large scale events\n* Develop and execute both sides of the event P\\\u0026L \\- creating ancillary revenue streams and cost\\-cutting measures that maximize OI\n* Create and meet budget projections, continually finding savings and efficiencies as well as ways to maximize revenue\n* Develop event strategies for seamless data capture while building programming that identifies and excites our most valuable fans\n* Work closely and professionally with key stakeholders to ensure all event objectives are clearly articulated, understood, and executed accordingly\n* Develop high\\-impact presentations to communicate plans and vision across the organization\n* Lead the development of cross\\-functional working teams (e.g. Events, SR, Creative Services, Live Programming \\\u0026 Entertainment, Production, Finance, Legal) ensuring seamless integration of program development and execution\n* Work alongside NBA Events as a key point person with teams and promoters to memorialize sound deals and ensure commitments are met\n* Act as a key liaison with NBA Events to ensure flawless execution of WNBA events and marketing partner activations\n* Coordinate planning process milestones and deliverables, including business review, business dashboards, and executive reports\n* Manage schedules, budgets, assets, and overall project organization to ensure requirements and project deliverable dates are clearly communicated, understood, and executed upon\n* Leave no stone unturned in identifying the most efficient ways and partners to get things done\n* Develop and communicate program recaps, best practices, and indicated actions to internal and external clients",
+    "c_skills": "* 5\\-8 years of experience in event planning and production for large scale events (corporate, event startup, or agency background preferred)\n* Demonstrated ability to work well with different personalities in a fast\\-paced environment\n* Must be proficient in Microsoft Word, Excel, PowerPoint, and project management software\n* Exceptional writing and organizational skills\n* Event marketing and activation experience a must\n* Demonstrated expertise in both sides of an event P\\\u0026L\n* Successful track record in attaining and exceeding expectations",
+    "description": "This role will support the design, build and execution of immersive live events that acquire new fans, generate content, maximize event revenue and amplify the WNBA brand. This role will work in lock-step with the NBA Enterprise Events team but sit as a dedicated WNBA point of contact and decision-maker. This role will sit within the WNBA Marketing function and will work day-to-day with the NBA Events team and WNBA Creative Director. Your mission is to serve as a point guard within the WNBA and across a matrix NBA organization (e.g. Events, Basketball Operations, Partnerships, Marketing, PR, Digital Media, Programming, Content Production, Social Responsibility) to define event success metrics, work with Global Partnerships of sponsored events, and manage execution details. WNBA events under this scope include: WNBA Draft (annually); WNBA All-Star (annually); WNBA Commissioner\u0027s Cup Championship (annually); and WNBA Crossover Fan Festival (new for 2022 to be held every 2 years) and more in the years to come.",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": "NBA",
+    "landingPageUrl": "https://nbacareers.nba.com/job/New-York-Events-Lead-WNBA-New-10022/740137801/",
+    "location": {
+      "externalLocation": "645 5th Avenue, New York City, New York 10022, United States"
+    },
+    "logo": {
+      "image": {
+        "height": 570,
+        "sourceUrl": "https://a2.espncdn.com/combiner/i?img\u003d%2Fphoto%2F2019%2F0408%2Fr526103_1296x729_16%2D9.png\u0026w\u003d570\u0026h\u003d321\u0026format\u003djpg",
+        "thumbnails": [
+          {
+            "height": 570,
+            "url": "https://a.mktgcdn.com/p-sandbox/h19PdwgeqDb9PAn0PGIPEAVsZxwTZWlA3IfATiYbn3g/570x570.jpg",
+            "width": 570
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p-sandbox/h19PdwgeqDb9PAn0PGIPEAVsZxwTZWlA3IfATiYbn3g/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "https://a.mktgcdn.com/p-sandbox/h19PdwgeqDb9PAn0PGIPEAVsZxwTZWlA3IfATiYbn3g/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/h19PdwgeqDb9PAn0PGIPEAVsZxwTZWlA3IfATiYbn3g/570x570.jpg",
+        "width": 570
+      }
+    },
+    "name": "Events Lead - WNBA",
+    "workRemote": true,
+    "yextBoundingBox": {
+      "northEast": {
+        "latitude": 40.7593784,
+        "longitude": -73.9758367
+      },
+      "southWest": {
+        "latitude": 40.75894450000001,
+        "longitude": -73.976541
+      }
+    }
+  },
+  "entityType": "job",
+  "labels": []
+}

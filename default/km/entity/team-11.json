@@ -1,0 +1,67 @@
+{
+  "$id": "team-11",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_conference": "Western",
+    "c_defaultOnInitialSearch": true,
+    "c_league": [
+      "organization-1"
+    ],
+    "c_linkedAthletes": [
+      "athlete-120",
+      "athlete-121",
+      "athlete-122",
+      "athlete-123",
+      "athlete-124",
+      "athlete-125",
+      "athlete-126",
+      "athlete-127",
+      "athlete-128",
+      "athlete-129",
+      "athlete-130"
+    ],
+    "c_rosterURL": "http://mercury.wnba.com/roster/",
+    "c_scheduleURL": "http://mercury.wnba.com/schedule/#?season\u003d2022\u0026seasontype\u003d02",
+    "c_teamAbbreviation": "PHO",
+    "c_teamCity": "Phoenix",
+    "c_teamState": "AZ",
+    "landingPageUrl": "http://mercury.wnba.com/",
+    "linkedLocation": "location-11",
+    "name": "Phoenix Mercury",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 677,
+          "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Phoenix_Mercury_logo.svg/1200px-Phoenix_Mercury_logo.svg.png",
+          "thumbnails": [
+            {
+              "height": 677,
+              "url": "https://a.mktgcdn.com/p-sandbox/uns1REl1Dsc52g_lM7PcfsVLeJR_3IWh-SeKWjSqcmQ/1200x677.png",
+              "width": 1200
+            },
+            {
+              "height": 349,
+              "url": "https://a.mktgcdn.com/p-sandbox/uns1REl1Dsc52g_lM7PcfsVLeJR_3IWh-SeKWjSqcmQ/619x349.png",
+              "width": 619
+            },
+            {
+              "height": 339,
+              "url": "https://a.mktgcdn.com/p-sandbox/uns1REl1Dsc52g_lM7PcfsVLeJR_3IWh-SeKWjSqcmQ/600x339.png",
+              "width": 600
+            },
+            {
+              "height": 111,
+              "url": "https://a.mktgcdn.com/p-sandbox/uns1REl1Dsc52g_lM7PcfsVLeJR_3IWh-SeKWjSqcmQ/196x111.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/uns1REl1Dsc52g_lM7PcfsVLeJR_3IWh-SeKWjSqcmQ/1200x677.png",
+          "width": 1200
+        }
+      }
+    ]
+  },
+  "entityType": "ce_team",
+  "labels": []
+}

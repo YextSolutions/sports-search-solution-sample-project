@@ -1,0 +1,56 @@
+{
+  "$id": "location-6",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Washington",
+      "countryCode": "US",
+      "line1": "1100 Oak Dr SE",
+      "postalCode": "20032",
+      "region": "DC"
+    },
+    "c_league": [
+      "organization-1"
+    ],
+    "c_linkedTeams": [
+      "team-6"
+    ],
+    "name": "Entertainment \u0026 Sports Arena",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 240,
+          "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/AmeriCup_Qualifying_Game_at_St._Elizabeths_East_Entertainment_and_Sports_Arena.jpg/710px-AmeriCup_Qualifying_Game_at_St._Elizabeths_East_Entertainment_and_Sports_Arena.jpg",
+          "thumbnails": [
+            {
+              "height": 240,
+              "url": "https://a.mktgcdn.com/p-sandbox/5qOTZleyhuF6VqVuHaaDa43tYQWFVHxRnszF378SWuM/710x240.jpg",
+              "width": 710
+            },
+            {
+              "height": 209,
+              "url": "https://a.mktgcdn.com/p-sandbox/5qOTZleyhuF6VqVuHaaDa43tYQWFVHxRnszF378SWuM/619x209.jpg",
+              "width": 619
+            },
+            {
+              "height": 203,
+              "url": "https://a.mktgcdn.com/p-sandbox/5qOTZleyhuF6VqVuHaaDa43tYQWFVHxRnszF378SWuM/600x203.jpg",
+              "width": 600
+            },
+            {
+              "height": 66,
+              "url": "https://a.mktgcdn.com/p-sandbox/5qOTZleyhuF6VqVuHaaDa43tYQWFVHxRnszF378SWuM/196x66.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/5qOTZleyhuF6VqVuHaaDa43tYQWFVHxRnszF378SWuM/710x240.jpg",
+          "width": 710
+        }
+      }
+    ],
+    "timezone": "America/New_York"
+  },
+  "entityType": "location",
+  "labels": []
+}

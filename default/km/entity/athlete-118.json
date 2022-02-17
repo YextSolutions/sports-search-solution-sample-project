@@ -1,0 +1,77 @@
+{
+  "$id": "athlete-118",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_dateOfBirth": "January 17, 1994",
+    "c_height": "5-11 ft",
+    "c_jersey": "3",
+    "c_linkedTeams": [
+      "team-10"
+    ],
+    "c_position": "Foward-Guard",
+    "c_teamLogo": [
+      {
+        "height": 1125,
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Minnesota_Lynx_logo.svg/1200px-Minnesota_Lynx_logo.svg.png",
+        "thumbnails": [
+          {
+            "height": 1125,
+            "url": "https://a.mktgcdn.com/p-sandbox/HIUB0-n9ctUd2HsB_yERdzUzhOTDWW6qFmmMsk9G8fk/1200x1125.png",
+            "width": 1200
+          },
+          {
+            "height": 580,
+            "url": "https://a.mktgcdn.com/p-sandbox/HIUB0-n9ctUd2HsB_yERdzUzhOTDWW6qFmmMsk9G8fk/619x580.png",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p-sandbox/HIUB0-n9ctUd2HsB_yERdzUzhOTDWW6qFmmMsk9G8fk/480x450.png",
+            "width": 480
+          },
+          {
+            "height": 184,
+            "url": "https://a.mktgcdn.com/p-sandbox/HIUB0-n9ctUd2HsB_yERdzUzhOTDWW6qFmmMsk9G8fk/196x184.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/HIUB0-n9ctUd2HsB_yERdzUzhOTDWW6qFmmMsk9G8fk/1200x1125.png",
+        "width": 1200
+      }
+    ],
+    "c_weight": "169 lbs",
+    "landingPageUrl": "https://www.wnba.com/player/aerial-powers/",
+    "name": "Aerial Powers",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 500,
+          "sourceUrl": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/wnba/1627672.png",
+          "thumbnails": [
+            {
+              "height": 500,
+              "url": "https://a.mktgcdn.com/p-sandbox/ykMjpKf7Cx6aRZRnMbpmreethtGGiS3xVYipsxvxUqE/500x500.png",
+              "width": 500
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/ykMjpKf7Cx6aRZRnMbpmreethtGGiS3xVYipsxvxUqE/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/ykMjpKf7Cx6aRZRnMbpmreethtGGiS3xVYipsxvxUqE/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ykMjpKf7Cx6aRZRnMbpmreethtGGiS3xVYipsxvxUqE/500x500.png",
+          "width": 500
+        }
+      }
+    ],
+    "yearsOfExperience": 5
+  },
+  "entityType": "ce_athlete",
+  "labels": []
+}
