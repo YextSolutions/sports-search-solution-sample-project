@@ -1,6 +1,6 @@
 {
   "$id": "ce_video",
-  "$schema": "https://schema.yext.com/config/km/entity-type/v1",
+  "$schema": "https://schema.yext.com/config/km/entity-type/v2",
   "description": "",
   "displayName": "Video",
   "pluralDisplayName": "Videos"

@@ -1,6 +1,6 @@
 {
   "$id": "ce_promotion",
-  "$schema": "https://schema.yext.com/config/km/entity-type/v1",
+  "$schema": "https://schema.yext.com/config/km/entity-type/v2",
   "description": "",
   "displayName": "Promotion",
   "pluralDisplayName": "Promotions"
