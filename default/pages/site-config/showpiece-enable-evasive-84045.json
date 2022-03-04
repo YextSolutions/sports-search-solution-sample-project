@@ -11,8 +11,8 @@
     "pinnedStagingBranchName": "refs/heads/master",
     "pinnedProductionBranchName": "refs/heads/master",
     "stagingCredentials": {
-      "username": "test",
-      "password": "test"
+      "username": "yext",
+      "password": "sample"
     }
   },
   "features": []
